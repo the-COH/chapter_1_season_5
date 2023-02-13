@@ -77,15 +77,15 @@ The COH is pleased to announce the following judges for Chapter 1, Season 5:
 The Elevator is a project pitch session: your chance to pitch your idea(s) to fellow builders and Canto mentors. Get direct feedback, learn about potential projects, and grow your team.   
 **2/8** – [**Midpoint Check.**](https://form.jotform.com/230296102567151) Share Project Title, Summary, & Progress Update with COH organizers.   
 **2/17** – [**Projects Due.** ](https://form.jotform.com/230296068401149)Must submit pre-recorded video and PR to this repo by 11:59pm UTC.  
-**2/19** – [**Judging Ceremony** ] at 6pm UTC. Event link TBA   
-**2/20-22** – Winners Announced (TBD)  
+**TBD** – [**Judging Ceremony** ]. Event link TBA   
+**TBD** – Winners Announced (TBD)  
 
 ## **Project Requirements** ## 
 
 **Teams must submit a PR to this repo before 11:59pm UTC on 2/17.** 
 If builders wish to keep their project private, please contact hackathon organizers to ensure judges' github handles are added to your project. 
 
-**Teams must provide a pre-recorded video (max 5 minutes).** 
+**Teams must provide a pre-recorded video (max 3 minutes).** 
 This video will be played during the live judging ceremony and can be a working demo and/or a presentation outlining the project (i.e. what was accomplished during the COH, what’s next). For examples of hackathon presentation videos please review the [judging ceremony](https://www.youtube.com/watch?v=A4A4y4FE6u0) from a previous COH season. For guidelines on recording your video, see [see here.](https://docs.google.com/document/d/1ROIdoGOL9zmSGpq9081uQ3t0HH1WNlObn5HREgoP4Pk/edit?usp=sharing)
 
 *Note: Any teams requiring assistance with translation and subtitling of their video can contact the hackathon organizers for accommodations. All languages are welcome.* 
