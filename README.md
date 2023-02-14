@@ -1,3 +1,6 @@
+[Encanto Submission](https://github.com/ngmisl/thegame)
+[Play](https://encanto.onrender.com/)
+
 ## Canto Online Hackathon | Chapter 1, Season 5 | Feb 1 - 19
 
 [**Apply to Hack**](https://eugnmr538db.typeform.com/to/BCe0ZX8H)  
