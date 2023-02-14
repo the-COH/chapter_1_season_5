@@ -1,5 +1,5 @@
-https://github.com/CapTake/souls-protocol-coh-project
-(private repo until judgement day, please provide judges github handles)
+https://github.com/CapTake/souls-protocol-coh-project - contracts
+https://github.com/CapTake/souls-canto-frontend       - frontend
 
 The Hero Souls Protocol is a set of smart contracts built on the Canto blockchain that allows users to create unique NFTs called "Souls".
 
