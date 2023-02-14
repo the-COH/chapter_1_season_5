@@ -1,0 +1,15 @@
+https://github.com/CapTake/souls-protocol-coh-project
+(private repo until judgement day, please provide judges github handles)
+
+The Hero Souls Protocol is a set of smart contracts built on the Canto blockchain that allows users to create unique NFTs called "Souls".
+
+These Souls represent the core traits of a game character, such as Agility, Charisma, Constitution, Dexterity, Intelligence, Strength, and Wisdom,
+with each trait assigned a number of points by the user. Souls are stored completely on chain.
+
+These NFTs are meant to be used in blockchain games as a foundation of in game characters.
+And we provide Smart contract interfaces for easy integration.
+
+Although the Souls themselves are immutable, their in-game incarnations can evolve and upgrade according
+to the rules of the game, with the traits of the Soul serving as the "factory defaults" for the in-game character.
+
+With the Hero Souls Protocol, players have the ability to own, trade, and take their unique game characters across multiple games and experiences.
