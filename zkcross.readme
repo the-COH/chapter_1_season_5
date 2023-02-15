@@ -1,0 +1,35 @@
+# Introduction
+ZKCross focuses on creating a fusion platform to aid developers and business owners in applying ZKP to link Web2 and Web3.
+
+
+We are aware that Web3/Crypto must grow, which necessitates new programmers and applications. There are millions of Web2 developers, programs, and communities, yet they engage with Web3 just minimally. It is quite difficult to directly move apps. Instead of attempting to migrate web2 applications to web3 (fully on-chain), we build a ZK shadow layer that enables web2 applications to run off-chain without modification. Execution results will be posted and verified on-chain using the most advanced zero-knowledge-proof technology, which will trigger on-chain behavior such as settlement. By fusing web2 and web3, we will be able to facilitate the creation of blockchain-enabled apps by a large number of developers.
+
+
+# Project Highlights
+A shadow execution layer [yellow paper 1]
+The environment for off-chain contracts to live and process transactions and state updates that interact with those contracts. With such a environment, it can generate and aggregate execution zkProofs , post zkProof on chain, communicate and cooperate with on chain zkProxy contracts for verification and trigger on-chain activities.
+
+zkWasm virtual machine [yellow paper 2]
+A virtual machine that implements the WebAssembly (WASM) instruction set using zk-proof circuits. This allows the runtime to perform trustless computations for programs written with general-purpose languages running within it, effectively combining the benefits of trustless computation with the WASM ecosystem.
+
+# Value Propositions
+Empower on-chain application to use off-chain resources in a verifiable way with ZKP.
+Make Web3 more accessible to any developers by connecting on-chain and off-chain via zkWasm. 
+Make ZK adoption more easily 
+
+# Team Background
+Our team comprises experts in zero-knowledge proof, security, and compilation. Team members have ten years of experience on average. Most came from tier 1 IT companies like Oracle, Microsoft, Huawei, etc. 
+
+# Links
+Website https://www.zkcross.org 
+Twitter: ZKCross@Token2049 (@thezkcross) / Twitter
+Discord: http://discord.gg/t2TsRDeHvW
+Demo: https://alpha.omniswap.app 
+
+Pitch Deck: https://docsend.com/view/sty6jawri4zfjw8b  Password: ZKCross
+
+Whitepaper: https://docsend.com/view/kfiifwvxnt5ys88h 
+
+Yellow paper 1: https://docsend.com/view/bfajakc8mxhezrrt
+
+Yellow paper 2: https://docsend.com/view/n5n2g2iatpwhwhhn
