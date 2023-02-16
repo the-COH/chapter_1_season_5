@@ -1,102 +1,89 @@
-## Canto Online Hackathon | Chapter 1, Season 5 | Feb 1 - 19
+# St3mz
 
-[**Apply to Hack**](https://eugnmr538db.typeform.com/to/BCe0ZX8H)  
+## A platform for music NFT's in the Canto blockchain
 
-The Canto Online Hackathon (COH) is a virtual summit that invites developers, creatives, and communicators to launch the next wave of apps, infrastructure, and original work on Canto. 
+**Live app**: https://st3mz-dapp.web.app
 
+**Video demo**: https://youtu.be/qZPVEmK6dTE
 
+This project consists of two **repositories**:
 
-## **About Canto**
+- [st3mz-core](https://github.com/St3mz/st3mz-core): Smart contracts, tests and deployment script.
+- [st3mz-ui](https://github.com/St3mz/st3mz-ui): UI for interaction with the smart contracts.
 
-Canto is a permissionless blockchain built with the Cosmos SDK that offers an EVM execution layer and core financial primitives, including a novel decentralized exchange, lending market, and unit of account (NOTE). In support of Canto’s Free Public Infrastructure – a framework that advocates for DeFi primitives to be provided as public utilities, among other tenets –  the COH encourages projects centered on sustainability, authenticity, and creativity. 
+# Overview 👀
 
+St3mz is a platform that allows artists to publish their music in the form of NFTs in the Canto blockchain, so that other users can buy them acquiring also the rights to use the music with different levels of freedom.
 
-## **Bounties & Building Categories**
-Builders will compete for prizes from a 300,000 CANTO rewards pool. The overall winner will be awarded 100,000 CANTO while category winners will receive 40,000 CANTO.
+Each **NFT** is composed of:
 
-* **Ecosystem Support** 
-Analytics, tooling, and sites for Canto awareness. 
-Prize: 40,000 CANTO
-* **NFTs**
-Collections that break new ground, and/or include experimental aspects. 
-Prize: 40,000 CANTO
-* **DeFi & Infrastructure** 
-Apps that leverage Canto’s Infrastructure, including its [Free Public Infrastructure](https://docs.canto.io/readme/free-public-infrastructure-fpi) of DeFi Primitives and [Contract Secured Revenue](https://docs.canto.io/evm-development/contract-secured-revenue-csr). 
-Prize: 40,000 CANTO
-* **New Things**
-The most divergent ideas: games, DAOs, all things weird.  
-Prize: 40,000 CANTO
-* **Notable Builds**
-Remarkable projects will be awarded as judges see fit. 
-Prize: 40,000 CANTO
-* **Overall Winner**
-Prize: 100,000 CANTO
+- A main audio track
+- Multitrack files (stems) that form the main audio track
+- An image artwork
+- The metadata related with the audio track
 
+These files are stored in the **Filecoin decentralized storage network** to ensure permanent persistence of the data. This, together with the proof of creation that the multitrack files offer, ensures that an artist can demonstrate that is the rightful creator of the material.
 
-## **Judging Criteria**
+The metadata of the NFT includes a **licenses** property. Here the creator can specify up to three different kinds of licenses and the minimum amount of units a user will require owning to exercise the rights granted by that license. These are the three types of licenses available:
 
-**20%** – Originality, Creativity, & Innovation.
+- **Basic**: Does NOT allow commercial use.
+- **Commercial**: Allows commercial use. The rights over the material are shared
+  with other people.
+- **Exclusive**: Exclusive rights over the material with no limitations.
 
-**20%** – Canto-ish-ness. How well projects do one of the following items:
-* In step with Canto culture
-* Leverages or supports Canto Free Public Infrastructure
-* Leverages Contract Secured Revenue.
+We can see how this works with an example. Let's assume that we have an NFT with a total supply of 10 units and these values in its metadata file:
 
-**20%** – Expertise Required
-A high level of skill or knowledge or competency was demonstrated by the team members
+```json
+  "licenses": [
+    {
+      "type": "Basic",
+      "tokensRequired": 1
+    },
+    {
+      "type": "Commercial",
+      "tokensRequired": 3
+    },
+    {
+      "type": "Exclusive",
+      "tokensRequired": 10
+    }
+  ]
+```
 
-**20%** – User Experience
-Project presents as intuitive and understandable for its targeted user profile.
+This means that a user that just want to own the audio NFT as a collectible can do so buying just one unit. However, if that user wanted to use the track to create a remix and publish it in their new album, they would require buying three units of the NFT. Finally, if the purpose is to have exclusive rights over the piece so that nobody else can use it with commercial purposes they would require to buy the whole supply.
 
-**20%** – Sustainability
-A thoughtful plan for launch, maintenance, and/or further development.  
+# Technologies used 🔧
 
+## Front end
 
+The front end application has been created with JavaScript's [React](https://reactjs.org/) framework, using the scaffolding project [Create React App](https://create-react-app.dev/).
 
-## **Judges**
+The application also makes use of [Tailwind CSS](https://tailwindcss.com/) framework.
 
-The COH is pleased to announce the following judges for Chapter 1, Season 5:
+## Smart contracts
 
-* [**Ciniz**](https://twitter.com/screentimes)  –  Inventor of Web+, CEO, Punkbusters
-* [**Chjango Unchained**](https://twitter.com/chjango) – Host, Interchain.fm; prev. Cosmos Head of Ecosystem, Osmosis / Cosmos
-* [**Zak Cole**](https://twitter.com/0xzak)– CTO, [Slingshot Finance](https://slingshot.finance)
-* [**Joseph Delong**](https://twitter.com/josephdelong)  – CTO, [Astaria.xyz](https://astaria.xyz)
-* [**Jelena Djuric**](https://twitter.com/jelenaaa____) – Contributor, Cosmos
-* [**Gabriel Haines**](https://twitter.com/gabrielhaines)   – No. 1 Web+ Content Creator
-* [**Brad Nickel**](https://twitter.com/b05crypto) – Founder, MissionDeFi.com
-* [**Jonny Rhea**](https://twitter.com/JonnyRhea)  – Co-Founder, Element.fi
-* [**Derek Walkush**](https://twitter.com/Derekmw23)  –  DeFi Investor, [Variant.fund](https://variant.fund/articles/canto-a-layer-1-incentive-experiment/)
+The smart contracts have been written in [Solidity 0.8.17](https://docs.soliditylang.org/en/v0.8.17/) and [Foundry](https://book.getfoundry.sh/) development toolchain has been used for testing and deployment.
 
+## Storage
 
+The NFT files (audios, image and metadata) are stored in [Filecoin](https://filecoin.io/) and made available over [IPFS](https://ipfs.tech/) with the [NFT.Storage](https://nft.storage/) service.
 
-## **Important Dates**
+NFT.Storage IPFS's gateway is used to access the stored files.
 
-**2/1** – Registration Ongoing at [**thecoh.build**](https://thecoh.build)  
-**2/1** – Begin Building, Communicate in [**the COH chat**](https://t.me/+aXvNO-ZcrWZjYTIx).   
-**2/3** – The Elevator, 630pm-730pm UTC, [**Save Your Spot**](https://streamyard.com/watch/hw4sUkVRdPXc)  
-The Elevator is a project pitch session: your chance to pitch your idea(s) to fellow builders and Canto mentors. Get direct feedback, learn about potential projects, and grow your team.   
-**2/8** – [**Midpoint Check.**](https://form.jotform.com/230296102567151) Share Project Title, Summary, & Progress Update with COH organizers.   
-**2/17** – [**Projects Due.** ](https://form.jotform.com/230296068401149)Must submit pre-recorded video and PR to this repo by 11:59pm UTC.  
-**2/19** – [**Judging Ceremony** ] at 6pm UTC. Event link TBA   
-**2/20-22** – Winners Announced (TBD)  
+# Smart contracts 📃
 
-## **Project Requirements** ## 
+## St3mz
 
-**Teams must submit a PR to this repo before 11:59pm UTC on 2/17.** 
-If builders wish to keep their project private, please contact hackathon organizers to ensure judges' github handles are added to your project. 
+NFT contract based on the ERC1155 standard, but adapted to be transferable just once (when it is bought). This ensures that the buyer cannot resale the NFT after they have exercised the licensing rights associated with its purchase.
 
-**Teams must provide a pre-recorded video (max 5 minutes).** 
-This video will be played during the live judging ceremony and can be a working demo and/or a presentation outlining the project (i.e. what was accomplished during the COH, what’s next). For examples of hackathon presentation videos please review the [judging ceremony](https://www.youtube.com/watch?v=A4A4y4FE6u0) from a previous COH season. For guidelines on recording your video, see [see here.](https://docs.google.com/document/d/1ROIdoGOL9zmSGpq9081uQ3t0HH1WNlObn5HREgoP4Pk/edit?usp=sharing)
+The creator sets the supply and unit price for the token at the moment of minting.
 
-*Note: Any teams requiring assistance with translation and subtitling of their video can contact the hackathon organizers for accommodations. All languages are welcome.* 
+## St3mzUtil
 
-## **Builder Resources**
-## 
+This is a utility contract to perform read-only operations over the St3mz contract.
 
-* **The COH Telegram** – Builders are encouraged to discuss projects in [The COH Builders Telegram Channel](https://t.me/+aXvNO-ZcrWZjYTIx) 
-* **Project Ideas** - See [this spreadsheet](https://docs.google.com/spreadsheets/d/1Ecp7ixsFEtIyZw4qzmLYOOT6NHUWqHn0bZHi1eaY6DQ/edit?usp=sharing) for some project ideas.
-* **[Attend the Elevator Project Pitch Session](https://streamyard.com/watch/hw4sUkVRdPXc)** (2/3) to pitch your idea, get direct feedback from mentors, and to meet other builders. 
-* **Book a private meeting** with Headwater to get help or direction – https://calendly.com/nassim-/30min
-* **Canto EVM Development Documentation** – https://docs.canto.io/evm-development/overview
-* **Canto Testnet Faucet (Discord)** – https://discord.com/channels/993968517906960445/1029450708371656715
-*  **Canto Icons & Logos** – Canto is a headless brand, meaning there is no official brand identity. You're encouraged to change and ideate on any Canto visuals, or utilize some common visuals here: https://github.com/Canto-Network/canto-branding-assets
+## Testnet contracts
+
+**St3mz.sol**: [0x83B533033AfAad8dDda4D17a3BbEAae3A37911E1](https://testnet-explorer.canto.neobase.one/address/0x83B533033AfAad8dDda4D17a3BbEAae3A37911E1/contracts#address-tabs)
+
+**St3mzUtil.sol**: [0xa6E1761c9f8d100364425b6EDfc89c1Ea82FDd33](https://testnet-explorer.canto.neobase.one/address/0xa6E1761c9f8d100364425b6EDfc89c1Ea82FDd33/contracts#address-tabs)
