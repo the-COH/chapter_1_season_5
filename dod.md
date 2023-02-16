@@ -125,19 +125,19 @@ King Kunta is our community contributing business development lead with extensiv
 
 # Key resources
 
-    Docs: https://docs.defioptions.org/
+Docs: https://docs.defioptions.org/
 
-    Contracts: https://github.com/cinquemb/DeFiOptions-core/tree/canto
+Contracts: https://github.com/cinquemb/DeFiOptions-core/tree/canto
 
-    Frontend: https://github.com/cinquemb/DeFiOptions-frontend
+Frontend: https://github.com/cinquemb/DeFiOptions-frontend
 
-    Deployed frontend (on testnet): https://cinquemb.github.io/DeFiOptions-frontend/
+Deployed frontend (on testnet): https://cinquemb.github.io/DeFiOptions-frontend/
 
-    LP management docs: https://docs.google.com/document/d/1e7aaDGH-r8EUbVyuqUnxiS_xFOR46ROMyP_GTgpUVas/edit#
+LP management docs: https://docs.google.com/document/d/1e7aaDGH-r8EUbVyuqUnxiS_xFOR46ROMyP_GTgpUVas/edit#
 
 
 # Additional resources
 
-    V1 audit results: https://github.com/DeFiOptions/DeFiOptions-core/blob/master/audits/PeckShield-Audit-Report-DeFiOptions-v1.0.pdf
+V1 audit results: https://github.com/DeFiOptions/DeFiOptions-core/blob/master/audits/PeckShield-Audit-Report-DeFiOptions-v1.0.pdf
 
-    Linear interpolation for LP-defined pricing surfaces: https://thomasvilhena.com/2021/03/a-linear-interpolation-based-liquidity-pool
+Linear interpolation for LP-defined pricing surfaces: https://thomasvilhena.com/2021/03/a-linear-interpolation-based-liquidity-pool
