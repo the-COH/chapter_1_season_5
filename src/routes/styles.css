@@ -1,0 +1,74 @@
+﻿
+body {
+    margin: 0;
+    padding: 0;
+    /* background-color: #fcfeff; */
+    background-color: #041225;
+    font-family: Pixel;
+}
+
+@font-face {
+    font-family: Pixel;
+    src: url("../fonts/VT323-Regular.ttf");
+}
+
+@font-face {
+    font-family: Woodcut;
+    src: url("../fonts/Changchangwoodcut-BL25.ttf");
+}
+
+@font-face {
+    font-family: Funkystar;
+    src: url("../fonts/FunkyStar-7Be7V.ttf");
+}
+
+@font-face {
+    font-family: Katana;
+    src: url("../fonts/Katana-npqg.ttf");
+}
+
+@font-face {
+    font-family: Katanaitalic;
+    src: url("../fonts/KatanaItalic-1B72.ttf");
+}
+
+@font-face {
+    font-family: Katanashadow;
+    src: url("../fonts/KatanaShadow-RRYA.ttf");
+}
+
+@font-face {
+    font-family: Shogun;
+    src: url("../fonts/ShogunsClan-w3wP.ttf");
+}
+
+@font-face {
+    font-family: Silkscreen;
+    src: url("../fonts/Silkscreen-Regular.ttf");
+}
+
+
+* {
+    font-family: Pixel;
+}
+
+main {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    overflow-x: clip;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: #041225;
+}
+
+button {
+    width: 7em;
+    height: 4em;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
