@@ -1,0 +1,40 @@
+{
+  "name": "CANTO WORLD WRESTLERS #2",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "dna": "1e0878dd20f4143cccb64fb19461a5c085efafcd",
+  "edition": 2,
+  "external_url": "https://codecats.xyz",
+  "date": 1676595982417,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

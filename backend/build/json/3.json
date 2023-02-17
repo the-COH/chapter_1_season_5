@@ -1,0 +1,40 @@
+{
+  "name": "CANTO WORLD WRESTLERS #3",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "High High "
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ],
+  "dna": "f64d581ab87e94f91648969c2c32497bd56ff32f",
+  "edition": 3,
+  "external_url": "https://codecats.xyz",
+  "date": 1676595981882,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}
