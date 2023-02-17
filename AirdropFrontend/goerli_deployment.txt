@@ -1,0 +1,290 @@
+== Logs ==
+  DROP ______________####_____ :  0x6E5111AF54eA897C6Eb99482CABB51E6dF1208F3
+  WlW token ______________####_____ :  0x5b917E4db51aCD3cf530dC9F7982be52371A3D65
+  VestMinimal ______________####_____ :  0x0DB9D553B7d0413a1bc13F9A5F1c2033861F972e
+  CSR Vault _______###___(0<?) :  0xeC0e29759F26C1efD49cd660710fc820e98734c5
+  ODAO  ______________####_____ :  0x11DcE755f885a479A015AB145C2d361B0d9F10Ad
+  MembraneR ______________####_____ :  0x92C26ABe4Ad52Fee0965cb08161BC48b744e6305
+  Member  ______________####_____ :  0xab02769C2286453CBA7D80133357B82bEA7B6556
+  WalllaW DAO address  ______________####_____ :  0xE5Fb31a87541e9c22d5a853C03375c452B937Aa3
+  parseb balance  ______________####_____ :  478000000000000000000000
+  DAO has vest _______###___(persec) :  57077625570776255
+
+## Setting up (1) EVMs.
+
+==========================
+
+Chain 5
+
+Estimated gas price: 28.117386924 gwei
+
+Estimated total gas used for script: 23879300
+
+Estimated amount required: 0.6714235175742732 ETH
+
+==========================
+
+###
+Finding wallets for all the necessary addresses...
+##
+Sending transactions [0 - 11].
+⠄ [00:00:04] [#########################################################################] 12/12 txes (0.0s)
+Transactions saved to: /home/parseb/Desktop/ODAO/WalllaW-COH/broadcast/CantoDeploy.s.sol/5/run-latest.json
+
+##
+Waiting for receipts.
+⠄ [00:00:27] [#####################################################################] 12/12 receipts (0.0s)
+##### goerli
+✅ Hash: 0xf7643deaee3eb56f178467c151ec84ad035301e296e3b5dafbb020548121edd8
+Contract Address: 0x8d4529c103b10ee90a7c5c1f8f1df95a20a13f60
+Block: 8503511
+Paid: 0.03441032753952452 ETH (1983640 gas * 17.347062743 gwei)
+
+
+##### goerli
+✅ Hash: 0x753d9a75a65908e6b9defe1997504de8899f422a494d1cc1d98d17a20c30487e
+Contract Address: 0x5b917e4db51acd3cf530dc9f7982be52371a3d65
+Block: 8503511
+Paid: 0.015879587970255915 ETH (915405 gas * 17.347062743 gwei)
+
+
+##### goerli
+✅ Hash: 0x4e2c333ef465d14db8532739fb193b23ff1d17047cfe24ac058df3c4136a40e8
+Contract Address: 0xec0e29759f26c1efd49cd660710fc820e98734c5
+Block: 8503511
+Paid: 0.008953113981728931 ETH (516117 gas * 17.347062743 gwei)
+
+
+##### goerli
+✅ Hash: 0xe08f5e899c14fb46089b2365c8aec48b2a4f16266624b01e6ac0a12751698aa3
+Contract Address: 0xab02769c2286453cba7d80133357b82bea7b6556
+Block: 8503511
+Paid: 0.151181507940958501 ETH (8715107 gas * 17.347062743 gwei)
+
+
+##### goerli
+✅ Hash: 0xb7c15bfe424d8a5466414aa463a7a7b530f5bb1c88427b79d469cb2502d26da1
+Block: 8503511
+Paid: 0.075964487763745814 ETH (4379098 gas * 17.347062743 gwei)
+
+
+##### goerli
+✅ Hash: 0xd02915bb30338e434cd8dbf9d504498c8543c0b4eb3726c1374fa3f4101cf0e2
+Contract Address: 0x0db9d553b7d0413a1bc13f9a5f1c2033861f972e
+Block: 8503511
+Paid: 0.006954350718354985 ETH (400895 gas * 17.347062743 gwei)
+
+
+##### goerli
+✅ Hash: 0x3eb734dd07953f59cfd748a3bed26e606490acd7c0ffad36057b333b73bec1eb
+Contract Address: 0x6e5111af54ea897c6eb99482cabb51e6df1208f3
+Block: 8503511
+Paid: 0.00822268121080943 ETH (474010 gas * 17.347062743 gwei)
+
+
+##### goerli
+✅ Hash: 0xc4bca3870e1081e2aa730a054a515e04282c8645688ec8a9336ca4f8f16eea8a
+Block: 8503511
+Paid: 0.000787348483779284 ETH (45388 gas * 17.347062743 gwei)
+
+
+##### goerli
+✅ Hash: 0x0613d6ecff6aa068a7a92f012821edb568377ed884ef598dad4021be6af42263
+Block: 8503511
+Paid: 0.000807713935439566 ETH (46562 gas * 17.347062743 gwei)
+
+
+##### goerli
+✅ Hash: 0xcb7f3037d9dc1a851c48867d45fcd4296e2b521d4813e0251d3a6b42fd8c443d
+Block: 8503511
+Paid: 0.002827796738924659 ETH (163013 gas * 17.347062743 gwei)
+
+
+##### goerli
+✅ Hash: 0x561110f248d29a65636fe82aafb7ab176c632a9c77e371156baedd957b5d3789
+Block: 8503511
+Paid: 0.000462507386853866 ETH (26662 gas * 17.347062743 gwei)
+
+
+##### goerli
+✅ Hash: 0x3854886bee55c379eb2e18f71db02a29cbbdb6f98695d128c8ebd1c288d02212
+Block: 8503511
+Paid: 0.002202487168227738 ETH (126966 gas * 17.347062743 gwei)
+
+
+Transactions saved to: /home/parseb/Desktop/ODAO/WalllaW-COH/broadcast/CantoDeploy.s.sol/5/run-latest.json
+
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+Total Paid: 0.308653910838603209 ETH (17792863 gas * avg 17.347062743 gwei)
+##
+Start verification for (11) contracts
+Start verifying contract `0x8d4529c103b10ee90a7c5c1f8f1df95a20a13f60` deployed on goerli
+
+Submitting verification for [src/utils/CantoTurnslide.sol:Turnstile] "0x8d4529C103b10EE90A7c5c1F8f1DF95a20a13F60".
+
+Submitting verification for [src/utils/CantoTurnslide.sol:Turnstile] "0x8d4529C103b10EE90A7c5c1F8f1DF95a20a13F60".
+Submitted contract for verification:
+        Response: `OK`
+        GUID: `yjeasaqdigeqnjdpahq9bhxfndszy9tb3rhjguaxckthyak1zf`
+        URL:
+        https://goerli.etherscan.io/address/0x8d4529c103b10ee90a7c5c1f8f1df95a20a13f60
+Contract verification status:
+Response: `NOTOK`
+Details: `Pending in queue`
+Contract verification status:
+Response: `NOTOK`
+Details: `Already Verified`
+Contract source code already verified
+Start verifying contract `0x5b917e4db51acd3cf530dc9f7982be52371a3d65` deployed on goerli
+
+Submitting verification for [src/WLW.sol:WlW] "0x5b917E4db51aCD3cf530dC9F7982be52371A3D65".
+Submitted contract for verification:
+        Response: `OK`
+        GUID: `qr3jzhmpmpjrf9mtmn2uhgiixqpfhesssjiu8jsbxh8knc6juv`
+        URL:
+        https://goerli.etherscan.io/address/0x5b917e4db51acd3cf530dc9f7982be52371a3d65
+Contract verification status:
+Response: `NOTOK`
+Details: `Pending in queue`
+Contract verification status:
+Response: `NOTOK`
+Details: `Already Verified`
+Contract source code already verified
+Start verifying contract `0xec0e29759f26c1efd49cd660710fc820e98734c5` deployed on goerli
+
+Submitting verification for [src/CSRVault.sol:CSRvault] "0xeC0e29759F26C1efD49cd660710fc820e98734c5".
+Submitted contract for verification:
+        Response: `OK`
+        GUID: `mpz5yaijcjix7yxizvqjkuvrxr8xvkkfkmsutmbjlp79irbanv`
+        URL:
+        https://goerli.etherscan.io/address/0xec0e29759f26c1efd49cd660710fc820e98734c5
+Contract verification status:
+Response: `NOTOK`
+Details: `Already Verified`
+Contract source code already verified
+Start verifying contract `0xab02769c2286453cba7d80133357b82bea7b6556` deployed on goerli
+
+Submitting verification for [src/Member1155.sol:MemberRegistry] "0xab02769C2286453CBA7D80133357B82bEA7B6556".
+Submitted contract for verification:
+        Response: `OK`
+        GUID: `catbaitzy8tkesyebk6uqdk7zwnm87eya18alkc9btn4h2aeae`
+        URL:
+        https://goerli.etherscan.io/address/0xab02769c2286453cba7d80133357b82bea7b6556
+Contract verification status:
+Response: `NOTOK`
+Details: `Pending in queue`
+Contract verification status:
+Response: `NOTOK`
+Details: `Already Verified`
+Contract source code already verified
+Start verifying contract `0x11dce755f885a479a015ab145c2d361b0d9f10ad` deployed on goerli
+
+Submitting verification for [src/oDAO.sol:ODAO] "0x11DcE755f885a479A015AB145C2d361B0d9F10Ad".
+Submitted contract for verification:
+        Response: `OK`
+        GUID: `equjfafm3ewxrstuadkntsjxtwqgpym8cusp4rmzvyhpc4tmbp`
+        URL:
+        https://goerli.etherscan.io/address/0x11dce755f885a479a015ab145c2d361b0d9f10ad
+Contract verification status:
+Response: `NOTOK`
+Details: `Pending in queue`
+Contract verification status:
+Response: `NOTOK`
+Details: `Already Verified`
+Contract source code already verified
+Start verifying contract `0x92c26abe4ad52fee0965cb08161bc48b744e6305` deployed on goerli
+
+Submitting verification for [src/MembraneRegistry.sol:MembraneRegistry] "0x92C26ABe4Ad52Fee0965cb08161BC48b744e6305".
+Submitted contract for verification:
+        Response: `OK`
+        GUID: `jvmgyi6ius4lkcegtvqcavfwdhidnwtxqn6ygqunkmmq1vnnqy`
+        URL:
+        https://goerli.etherscan.io/address/0x92c26abe4ad52fee0965cb08161bc48b744e6305
+Contract verification status:
+Response: `NOTOK`
+Details: `Pending in queue`
+Contract verification status:
+Response: `NOTOK`
+Details: `Already Verified`
+Contract source code already verified
+Start verifying contract `0x5697d7ac66c691f992fe70df2ad1debb2e418008` deployed on goerli
+
+Submitting verification for [src/ExternalCall.sol:ExternalCall] "0x5697d7AC66c691F992Fe70Df2AD1Debb2e418008".
+Submitted contract for verification:
+        Response: `OK`
+        GUID: `njaghqcecm2ugt3jinbiiqfm6nfxqgan82c4bhijsz44hajaf5`
+        URL:
+        https://goerli.etherscan.io/address/0x5697d7ac66c691f992fe70df2ad1debb2e418008
+Contract verification status:
+Response: `NOTOK`
+Details: `Pending in queue`
+Contract verification status:
+Response: `OK`
+Details: `Pass - Verified`
+Contract successfully verified
+Start verifying contract `0xe5fb31a87541e9c22d5a853c03375c452b937aa3` deployed on goerli
+
+Submitting verification for [src/DAOinstance.sol:DAOinstance] "0xE5Fb31a87541e9c22d5a853C03375c452B937Aa3".
+Submitted contract for verification:
+        Response: `OK`
+        GUID: `mfugxyiyhc3rkergp2nsfnxtybu7tepemrjpbafawrhwk9cuyt`
+        URL:
+        https://goerli.etherscan.io/address/0xe5fb31a87541e9c22d5a853c03375c452b937aa3
+Contract verification status:
+Response: `NOTOK`
+Details: `Pending in queue`
+Contract verification status:
+Response: `NOTOK`
+Details: `Already Verified`
+Contract source code already verified
+Start verifying contract `0x7845416f48e0ae41ee215520b5b48b82549ae702` deployed on goerli
+
+Submitting verification for [src/DAO20.sol:DAO20] "0x7845416F48E0aE41Ee215520B5b48B82549AE702".
+Submitted contract for verification:
+        Response: `OK`
+        GUID: `njjqpzhsikebedppwjub6fmewq7uiqas8zheux3k89tvvic4gw`
+        URL:
+        https://goerli.etherscan.io/address/0x7845416f48e0ae41ee215520b5b48b82549ae702
+Contract verification status:
+Response: `NOTOK`
+Details: `Pending in queue`
+Contract verification status:
+Response: `NOTOK`
+Details: `Already Verified`
+Contract source code already verified
+Start verifying contract `0x0db9d553b7d0413a1bc13f9a5f1c2033861f972e` deployed on goerli
+
+Submitting verification for [src/VestMinimal.sol:MiniVest] "0x0DB9D553B7d0413a1bc13F9A5F1c2033861F972e".
+Submitted contract for verification:
+        Response: `OK`
+        GUID: `ehzpnix6uzsejslc3fmavyhatwdridc3mmbhtkczhpw4suqaaj`
+        URL:
+        https://goerli.etherscan.io/address/0x0db9d553b7d0413a1bc13f9a5f1c2033861f972e
+Contract verification status:
+Response: `NOTOK`
+Details: `Pending in queue`
+Contract verification status:
+Response: `OK`
+Details: `Pass - Verified`
+Contract successfully verified
+Start verifying contract `0x6e5111af54ea897c6eb99482cabb51e6df1208f3` deployed on goerli
+
+Submitting verification for [src/Drop.sol:WlWDrop] "0x6E5111AF54eA897C6Eb99482CABB51E6dF1208F3".
+Submitted contract for verification:
+        Response: `OK`
+        GUID: `fyiv261pvrv6mqmqsxgwjitnu64eiyxdhapfkhk5gwqm4b2eg3`
+        URL:
+        https://goerli.etherscan.io/address/0x6e5111af54ea897c6eb99482cabb51e6df1208f3
+Contract verification status:
+Response: `NOTOK`
+Details: `Pending in queue`
+Contract verification status:
+Response: `OK`
+Details: `Pass - Verified`
+Contract successfully verified
+All (11) contracts were verified!
+
