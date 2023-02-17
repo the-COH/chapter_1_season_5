@@ -1,5 +1,10 @@
-ArtLink token-gating app
-========================
+Carto 
+=====
+
+Carto by [Artlink_Network](https://www.artlink.network/) is a marketplace where Canto NFT owners can buy exclusive token-gated products and create products to sell using their NFTs.
+
+All royalties are distributed on-chain and shared between NFT owners and collections.<br /><br />
+
 
 ## Run app
 > npm run dev
@@ -13,22 +18,7 @@ Manage it on [Vercel.com](https://vercel.com/artlink-canto-store/alto-token-gate
 ## Collections whitelist
 A database of collections is at _'/collections.js'_. Only one collection should be marked as active, and this is the one the app concerns itself with.
 
-## Environment variables
-You can change the chains in the .env file by setting the three variables. By default, it will be set to CANTO:
-
-```
-NEXT_PUBLIC_CHAIN_ID=7700
-NEXT_PUBLIC_CHAIN_NAME=CANTO
-NEXT_PUBLIC_CHAIN_URL=https://canto.slingshot.finance
-```
-
-Here is how to set the app to Polygon:
-
-```
-NEXT_PUBLIC_CHAIN_ID=137
-NEXT_PUBLIC_CHAIN_NAME=POLYGON
-NEXT_PUBLIC_CHAIN_URL=https://polygon-rpc.com/
-```
+N.b. at the moment, the Cantillionaires tokens are hard-coded as belonging to the logged-in user, rather than being genuinily held by wallet owner. 
 
 ## User session
 When the user connects their wallet, a sessionStorage value is created:
