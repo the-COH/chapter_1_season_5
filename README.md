@@ -1,159 +1,102 @@
-![PennyDefi](https://user-images.githubusercontent.com/125085134/219498494-f21bcda8-0004-477c-89a1-05eb27c66829.png)
+## Canto Online Hackathon | Chapter 1, Season 5 | Feb 1 - 19
 
-# Penny | Product Strategy
+[**Apply to Hack**](https://eugnmr538db.typeform.com/to/BCe0ZX8H)  
 
-| Date of creation | Document version |
-| --- | --- |
-| February 16 2023 | 1.0 |
+The Canto Online Hackathon (COH) is a virtual summit that invites developers, creatives, and communicators to launch the next wave of apps, infrastructure, and original work on Canto. 
 
-Github: https://github.com/mobtastic/penny
-Twitter: https://twitter.com/PennyDefi
 
-## **Introduction**
 
-This document embodies and showcases our  conception of a revolutionary dapp for the Canto ecosystem. It provides a comprehensive overview of our ambitious long-term vision, along with a clear roadmap outlining our MVP strategy and its successive phases, aimed at realizing our vision in its entirety.
+## **About Canto**
 
-## **Background**
+Canto is a permissionless blockchain built with the Cosmos SDK that offers an EVM execution layer and core financial primitives, including a novel decentralized exchange, lending market, and unit of account (NOTE). In support of Canto’s Free Public Infrastructure – a framework that advocates for DeFi primitives to be provided as public utilities, among other tenets –  the COH encourages projects centered on sustainability, authenticity, and creativity. 
 
-Canto represents a pioneering addition to the Layer 1 arena, possessing distinctive features that provide previously unachievable use cases within the web3 ecosystem. The platform fosters the development of public goods, such as fundamental infrastructure and services, essential to the creation of a superior and streamlined environment for users. The cornerstone of Canto's innovation lies not in its technical innovations but rather in its socioeconomic principles. The ecosystem is rooted in a distinctive ideology centered on the notion of public goods, offering a unique perspective that distinguishes it from other blockchain platforms. This ideological foundation enables developers to conceive dapps that promote growth and prosperity for both the project and the community at large.
 
-## **Problem Definition / User Needs**
+## **Bounties & Building Categories**
+Builders will compete for prizes from a 300,000 CANTO rewards pool. The overall winner will be awarded 100,000 CANTO while category winners will receive 40,000 CANTO.
 
-The Canto ecosystem is in its nascent stage, and it is currently navigating its position within the web3 landscape. Despite its promising potential, the development of dapps and necessary infrastructure remains an ongoing process, rendering the available offerings for users limited. Consequently, users are yet to fully experience the richness of a mature DeFi environment and the diverse suite of tools that it offers.
+* **Ecosystem Support** 
+Analytics, tooling, and sites for Canto awareness. 
+Prize: 40,000 CANTO
+* **NFTs**
+Collections that break new ground, and/or include experimental aspects. 
+Prize: 40,000 CANTO
+* **DeFi & Infrastructure** 
+Apps that leverage Canto’s Infrastructure, including its [Free Public Infrastructure](https://docs.canto.io/readme/free-public-infrastructure-fpi) of DeFi Primitives and [Contract Secured Revenue](https://docs.canto.io/evm-development/contract-secured-revenue-csr). 
+Prize: 40,000 CANTO
+* **New Things**
+The most divergent ideas: games, DAOs, all things weird.  
+Prize: 40,000 CANTO
+* **Notable Builds**
+Remarkable projects will be awarded as judges see fit. 
+Prize: 40,000 CANTO
+* **Overall Winner**
+Prize: 100,000 CANTO
 
-This presents a rare opportunity to not only offer a novel and inventive decentralized application to users but also to become a crucial cornerstone of the Canto ecosystem, playing a pivotal role in its future development. As Penny provides seamless and expansive access to the Canto ecosystem, both Penny and Canto will thrive, and users will be richly rewarded for their involvement. This mutually beneficial relationship will drive growth and foster a thriving DeFi community, as users are incentivized to engage and contribute to Penny and the ecosystem.
 
-<aside>
-💡 **This is where Penny comes in: Penny serves as your one-stop shop for all DeFi-related needs within the Canto ecosystem. With Penny, you can effortlessly monitor your portfolio, encompassing both tokens and NFTs. Easily swap tokens or sweep NFTs with ease. Additionally, Penny provides an array of tools that grant you access to the latest NFT mints, in-depth on-chain analytics, and the most favorable price for your token swaps. However, Penny's key differentiating factor is its utilization of Contract Secure Revenue (CSR), fractionalizing it and dedicating a portion of the revenue to the wider community, making it a unique and community-driven platform.**
+## **Judging Criteria**
 
-</aside>
+**20%** – Originality, Creativity, & Innovation.
 
-Another obstacle that persists in the web3 space is the user experience and user interface. Recognizing this challenge, Penny is committed to making substantial investments toward crafting a UI that is intuitive and effortless to navigate while simultaneously delivering unparalleled value and unlocking the full potential of decentralized finance. Our aim is to bridge the gap between technology and ease of use, making it possible for users to fully embrace the possibilities of web3 and participate in Canto’s DeFi ecosystem with confidence and convenience.
+**20%** – Canto-ish-ness. How well projects do one of the following items:
+* In step with Canto culture
+* Leverages or supports Canto Free Public Infrastructure
+* Leverages Contract Secured Revenue.
 
-**User Personas**
+**20%** – Expertise Required
+A high level of skill or knowledge or competency was demonstrated by the team members
 
-- Degens
-- Traders
-- NFTers
-- DeFi Analysts
-- Canto enthusiasts
+**20%** – User Experience
+Project presents as intuitive and understandable for its targeted user profile.
 
-## **Vision** 👀
+**20%** – Sustainability
+A thoughtful plan for launch, maintenance, and/or further development.  
 
-Our mission is to create a platform that is accessible, user-friendly, and community-driven. By doing so, we believe that Penny will play a pivotal role in the future development of the Canto ecosystem and become a driving force in the DeFi space.
 
-## **Goals** 🎯
 
-To bring Penny's vision to fruition, it is imperative that we have a clear and concise path to success. In this initial stage, we have identified the following high-level goals as our guiding principles. A more comprehensive plan, complete with defined metrics and targets, will be developed in the near future to further refine and clarify our objectives.
+## **Judges**
 
-- Put together a team to build MVP
-- Build MVP
-- Full product rollout
-- User feedback, traction, and growth.
-- Funding
-- Grow team
-- Mobile App
-- Cosmos expansion
+The COH is pleased to announce the following judges for Chapter 1, Season 5:
 
-## **Features** 👾
+* [**Ciniz**](https://twitter.com/screentimes)  –  Inventor of Web+, CEO, Punkbusters
+* [**Chjango Unchained**](https://twitter.com/chjango) – Host, Interchain.fm; prev. Cosmos Head of Ecosystem, Osmosis / Cosmos
+* [**Zak Cole**](https://twitter.com/0xzak)– CTO, [Slingshot Finance](https://slingshot.finance)
+* [**Joseph Delong**](https://twitter.com/josephdelong)  – CTO, [Astaria.xyz](https://astaria.xyz)
+* [**Jelena Djuric**](https://twitter.com/jelenaaa____) – Contributor, Cosmos
+* [**Gabriel Haines**](https://twitter.com/gabrielhaines)   – No. 1 Web+ Content Creator
+* [**Brad Nickel**](https://twitter.com/b05crypto) – Founder, MissionDeFi.com
+* [**Jonny Rhea**](https://twitter.com/JonnyRhea)  – Co-Founder, Element.fi
+* [**Derek Walkush**](https://twitter.com/Derekmw23)  –  DeFi Investor, [Variant.fund](https://variant.fund/articles/canto-a-layer-1-incentive-experiment/)
 
-**Portfolio tracker:** This will serve as the central hub for users to monitor and manage their holdings within the Canto ecosystem.
 
-**Overview:**
 
-- This feature will provide an in-depth view of all tokens held by the user, including a comprehensive summary of their total portfolio with the option to include or exclude the value of NFTs.
-- The portfolio tracker will also display a graph detailing the allocation percentage of each token, providing users with a clear understanding of their investments and enabling them to make informed decisions.
-- This feature is designed to be intuitive and user-friendly, making it the ideal starting point for users to engage with the Canto ecosystem and to fully realize the potential of their investments.
-- 
+## **Important Dates**
 
-**Dex aggregator:** One of the key revenue drivers for Penny will be its seamless integration with various trading platforms, providing users with easy access to the best possible trading options within the Canto ecosystem.
+**2/1** – Registration Ongoing at [**thecoh.build**](https://thecoh.build)  
+**2/1** – Begin Building, Communicate in [**the COH chat**](https://t.me/+aXvNO-ZcrWZjYTIx).   
+**2/3** – The Elevator, 630pm-730pm UTC, [**Save Your Spot**](https://streamyard.com/watch/hw4sUkVRdPXc)  
+The Elevator is a project pitch session: your chance to pitch your idea(s) to fellow builders and Canto mentors. Get direct feedback, learn about potential projects, and grow your team.   
+**2/8** – [**Midpoint Check.**](https://form.jotform.com/230296102567151) Share Project Title, Summary, & Progress Update with COH organizers.   
+**2/17** – [**Projects Due.** ](https://form.jotform.com/230296068401149)Must submit pre-recorded video and PR to this repo by 11:59pm UTC.  
+**2/19** – [**Judging Ceremony** ] at 6pm UTC. Event link TBA   
+**2/20-22** – Winners Announced (TBD)  
 
-**Overview:**
+## **Project Requirements** ## 
 
-- The platform will offer a single dashboard that will automatically select the best provider for a specific token swap, taking into account pricing, savings, and cashback rewards available through our CSR implementation.
-- This will also incentivize users to return to Penny again and again.
+**Teams must submit a PR to this repo before 11:59pm UTC on 2/17.** 
+If builders wish to keep their project private, please contact hackathon organizers to ensure judges' github handles are added to your project. 
 
-**NFT aggregator:** Another revenue driver that will incentivize users to keep using Canto and Penny. Not only because providing users with not only the benefits of cashback incentives but also the convenience of trading NFTs within the Canto ecosystem.
+**Teams must provide a pre-recorded video (max 5 minutes).** 
+This video will be played during the live judging ceremony and can be a working demo and/or a presentation outlining the project (i.e. what was accomplished during the COH, what’s next). For examples of hackathon presentation videos please review the [judging ceremony](https://www.youtube.com/watch?v=A4A4y4FE6u0) from a previous COH season. For guidelines on recording your video, see [see here.](https://docs.google.com/document/d/1ROIdoGOL9zmSGpq9081uQ3t0HH1WNlObn5HREgoP4Pk/edit?usp=sharing)
 
-**Overview:**
+*Note: Any teams requiring assistance with translation and subtitling of their video can contact the hackathon organizers for accommodations. All languages are welcome.* 
 
-- Allow the consolidation of NFT listings from various marketplaces, users will be able to effortlessly discover and purchase their desired NFTs, saving both time and effort.
-- Will also feature a sweeping feature, enabling users to make multiple purchases in a single go.
-- Further down the road, users will be given the flexibility to make payments using any IBC token.
+## **Builder Resources**
+## 
 
-**Shared CSR:** Earlier, it was highlighted that Canto is facing significant disruption in web3 with the availability of FPI and CSR. We are deeply committed to Canto’s vision of fostering a community-driven approach and believe that growth and prosperity can be achieved through collective effort between community, network, and project. To further this goal, we have decided to fractionalize our CSR revenue, allowing users to benefit directly in the form of cashback. This distribution of CSR will be directly tied to platform usage, demonstrating our steadfast belief that this is the way for the future of the Web.
-
-**NFT Minter:**  It will offer a user-friendly interface that provides an overview of all current and upcoming mints in the Canto ecosystem. 
-
-**Overview:**
-
-- Ability to filter the list of mints based on various criteria, users can easily find the specific mint they are interested in.
-- The feature also includes a search bar for quick and direct access.
-- All essential information pertaining to each mint, such as its progress, the number of items available for minting, the mint price, and the floor price (if available), is clearly presented to the user.
-
-**Analytics platform:** It will provide insights and analysis of data  to better understand the behavior of dapps, DAOs and overall Canto’s on-chain data. 
-
-**Overview:** 
-
-- Collect and aggregate data from various sources, such as specific dapps, and smart contracts. This data is then analyzed and visualized in a manner that allows users to gain insights into the behavior of these entities, including transactions, usage patterns, and other important metrics.
-
-**Staking:** Staking plays a vital role in maintaining the security and stability of a network, and we are committed to making the process accessible and effortless for our users in the Canto ecosystem. 
-
-**Overview:**
-
-- Offer a user-friendly interface that provides an overview of all the delegators and their associated information, including overall stake, slashes, and APR.
-- Intuitive user interface that makes it simple for users to delegate and undelegate their Canto tokens to any available validator. Furthermore, with the option to automatically claim rewards and auto-delegate, staking with Canto is made even more convenient and seamless.
-
-**Discovering Canto ecosystem:**  Whether you are an investor, researcher, or simply an interested observer, this one-stop-shop provides an easy way to stay informed and abreast of the most significant events in the Canto ecosystem.
-
-**Overview**:
-
-- Stayed informed about the latest developments that may impact your investments or bring about breakthrough advancements in the network.
-- It will have a news section, the most recent tweets, popular mints, and tokens, ensuring that you are always up-to-date with the latest happenings.
-
-## **Roadmap** 🚗
-
-The following roadmap represents our current focus on establishing a solid foundation from which we can build, grow our platform and achieve our goals.
-
-**Q2 2023**
-
-- Launch MVP V1.0
-- Pitch on Canto Online Hackathon
-- Launch MVP V2.0
-- CSR
-- Ship NFT Aggregator feature
-
-**Q3 2023**
-
-- Swap aggregator
-- Ship NFT Minting feature
-- Ship Analytics feature
-- Ship Discover feature
-- User feedback process
-
-**Q4 2023**
-
-- Mobile app beta
-- Cosmos Expansion
-
-## **MVP Scope** 💫
-
-There will be a comprehensive PRD to detail the specifics of our MVP. The following will serve as an overview of our development efforts required to bring our product to life, and a glimpse into the key features and functions that will be included in our initial release:
-
-- **Portfolio Tracker:**
-    - **Tokens:** Display token, USD value, DoD change and graph.
-- **NFTs:**
-    - Visialize your NFTs per collection or per item.
-- **Staking:**
-    - It will allow you to see all validators and additionally delegate or undelagate Canto.
-
-## **Future plans:** 🔮
-
-Upon the successful launch of our MVP, we aim to continuously improve and refine our platform based on market developments and user feedback to guide the evolution of our platform. In this path, we have already identified a set of key features that we plan to implement in future iterations:
-
-**MVP V2** 🚘
-
-- Shared CSR ($PENNY)
-- Dex aggregator
-
-- NFT aggregator
+* **The COH Telegram** – Builders are encouraged to discuss projects in [The COH Builders Telegram Channel](https://t.me/+aXvNO-ZcrWZjYTIx) 
+* **Project Ideas** - See [this spreadsheet](https://docs.google.com/spreadsheets/d/1Ecp7ixsFEtIyZw4qzmLYOOT6NHUWqHn0bZHi1eaY6DQ/edit?usp=sharing) for some project ideas.
+* **[Attend the Elevator Project Pitch Session](https://streamyard.com/watch/hw4sUkVRdPXc)** (2/3) to pitch your idea, get direct feedback from mentors, and to meet other builders. 
+* **Book a private meeting** with Headwater to get help or direction – https://calendly.com/nassim-/30min
+* **Canto EVM Development Documentation** – https://docs.canto.io/evm-development/overview
+* **Canto Testnet Faucet (Discord)** – https://discord.com/channels/993968517906960445/1029450708371656715
+*  **Canto Icons & Logos** – Canto is a headless brand, meaning there is no official brand identity. You're encouraged to change and ideate on any Canto visuals, or utilize some common visuals here: https://github.com/Canto-Network/canto-branding-assets
