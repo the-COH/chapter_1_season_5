@@ -100,3 +100,4 @@ This video will be played during the live judging ceremony and can be a working 
 * **Canto EVM Development Documentation** – https://docs.canto.io/evm-development/overview
 * **Canto Testnet Faucet (Discord)** – https://discord.com/channels/993968517906960445/1029450708371656715
 *  **Canto Icons & Logos** – Canto is a headless brand, meaning there is no official brand identity. You're encouraged to change and ideate on any Canto visuals, or utilize some common visuals here: https://github.com/Canto-Network/canto-branding-assets
+*  
