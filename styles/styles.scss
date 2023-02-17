@@ -1,0 +1,75 @@
+@import"https://fonts.googleapis.com/css2?family=Silkscreen&display=swap";
+@import"https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;700&display=swap";
+@import './variables.scss';
+
+body {
+    font-family: "IBM Plex Sans";
+    color: #000;
+    font-size:16px;
+    line-height:24px;
+    font-weight:400;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+header {
+    nav {
+        width: 100%;
+        ul {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            @media (min-width: $small) {
+                flex-direction: row;
+                align-items: center;
+            }
+            li {
+                margin-bottom: 10px;
+                @media (min-width: $small) {
+                    margin-right: 20px;
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+}
+
+h1 {
+    margin: 0;
+    font-size: 1.75rem;
+}
+
+h3 {
+    margin: 0;
+}
+
+a {
+    color: $secondary;
+    text-decoration: none;
+    &:hover {
+        color: $highlights;
+    }
+}
+
+ul {
+    padding: 0;
+    margin: 0 0 0 1rem;
+}
+
+button {
+    @include button;
+}
+
+// footer {
+//     display: flex;
+//     align-items: center;
+//     gap: 0.5rem;
+//     justify-content: center;
+//     font-size: .75rem;
+//     // margin: 5rem 0 2rem 0;
+//     margin: 0 0 2rem 0;
+// }
