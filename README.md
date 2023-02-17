@@ -15,3 +15,19 @@ Platform Features:
 •Analysis : Analyzing route patterns and incidents.
 
 •Drone Incident Reporting : Publish drone incident reports.
+
+
+Canto, IBC and Cosmos Eco-system
+
+1. Canto enables us to have a DAO infrastructure with minimal gas fees. That is very important both from the privacy and cost effectiveness front.
+
+2. Cosmos interoperability with Ethereum like blockchains. Also, ability to use decentralize NFT voting for incident investigative system.
+
+3. Ability to generate NFT and ease of identity management.
+
+4. We are generating an NFT for NFC tags for drones and UAVs and spare parts at the time of service and repair workflows.
+
+5. Identity management, ability to extend the solution using IBC and reducing misinformation at the time of Incident analysis and reporting are the key reasons for experimenting with Canto.
+
+Overall, Canto enables investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, incident severity analysis based on the decentralize voting at the IBC chain.
+
