@@ -1,0 +1,8 @@
+[profile.default]
+src = 'src'
+out = 'out'
+libs = ['lib']
+FOUNDRY_FUZZ_RUNS = '21'
+# See more config options https://github.com/foundry-rs/foundry/tree/master/config
+
+fs_permissions = [{ access = "read-write", path = "logPath.txt"},{ access = "write", path = "./test/testLogs/"}]

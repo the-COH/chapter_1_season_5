@@ -1,0 +1,597 @@
+ WalllaW DAO address  ______________####_____ :  0x2c1A128D135a29642dbB0726B5244fb7991d11ff
+  parseb balance  ______________####_____ :  478000000000000000000000
+  DAO has vest _______###___(persec) :  57077625570776255
+
+## Setting up (1) EVMs.
+
+==========================
+
+Chain 7700
+
+Estimated gas price: 1200 gwei
+
+Estimated total gas used for script: 21592246
+
+Estimated amount required: 25.9106952 ETH
+
+==========================
+
+SIMULATION COMPLETE. To broadcast these transactions, add --broadcast and wallet configuration(s) to the previous command. See forge script --help for more.
+
+Transactions saved to: /home/parseb/Desktop/ODAO/WalllaW-COH/broadcast/CantoDeploy.s.sol/7700/dry-run/run-latest.json
+
+parseb@parseb-m1:~/Desktop/ODAO/WalllaW-COH$ forge script ./script/CantoDeploy.s.sol --rpc-url https://canto.slingshot.finance/ --broadcast --verify
+[⠊] Compiling...
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  DROP ______________####_____ :  0xf3907764ED941A56985ED4BA4FB68984818Bd887
+  WlW token ______________####_____ :  0x0E0BD1e019109fddEdb75C00fF8d76075d719788
+  VestMinimal ______________####_____ :  0x9D4722d668C4b790ab670c229c336389056615cb
+  CSR Vault _______###___(0<?) :  0xFf6d5B4C418A4064aA9aF61Ac97CeA07d833d3e9
+  ODAO  ______________####_____ :  0xd78b5fD50D1859091Da2c83585142ECBCBA0F918
+  MembraneR ______________####_____ :  0x07FB84c4B3e06248Cb71A46Bda761AF6114d0843
+  Member  ______________####_____ :  0x935658841d35A0272A45ADDA854d8b1bDEE1B97e
+  WalllaW DAO address  ______________####_____ :  0x2c1A128D135a29642dbB0726B5244fb7991d11ff
+  parseb balance  ______________####_____ :  478000000000000000000000
+  DAO has vest _______###___(persec) :  57077625570776255
+
+## Setting up (1) EVMs.
+
+==========================
+
+Chain 7700
+
+Estimated gas price: 1200 gwei
+
+Estimated total gas used for script: 21592246
+
+Estimated amount required: 25.9106952 ETH
+
+==========================
+
+###
+Finding wallets for all the necessary addresses...
+##
+Sending transactions [0 - 10].
+
+Transactions saved to: /home/parseb/Desktop/ODAO/WalllaW-COH/broadcast/CantoDeploy.s.sol/7700/run-latest.json
+
+Error: 
+(code: -32000, message: 
+github.com/evmos/ethermint/app/ante.EthIncrementSenderSequenceDecorator.AnteHandle
+        github.com/evmos/ethermint@v0.19.3/app/ante/eth.go:362
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1
+        github.com/cosmos/cosmos-sdk@v0.45.9/types/handler.go:40
+github.com/evmos/ethermint/app/ante.EthGasConsumeDecorator.AnteHandle
+        github.com/evmos/ethermint@v0.19.3/app/ante/eth.go:242
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1
+        github.com/cosmos/cosmos-sdk@v0.45.9/types/handler.go:40
+github.com/Canto-Network/Canto/v2/app/ante.EthVestingTransactionDecorator.AnteHandle
+        github.com/Canto-Network/Canto/v2/app/ante/vesting.go:53
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1
+        github.com/cosmos/cosmos-sdk@v0.45.9/types/handler.go:40
+github.com/evmos/ethermint/app/ante.CanTransferDecorator.AnteHandle
+        github.com/evmos/ethermint@v0.19.3/app/ante/eth.go:319
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1
+        github.com/cosmos/cosmos-sdk@v0.45.9/types/handler.go:40
+github.com/evmos/ethermint/app/ante.EthAccountVerificationDecorator.AnteHandle
+        github.com/evmos/ethermint@v0.19.3/app/ante/eth.go:136
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1
+        github.com/cosmos/cosmos-sdk@v0.45.9/types/handler.go:40
+github.com/evmos/ethermint/app/ante.EthSigVerificationDecorator.AnteHandle
+        github.com/evmos/ethermint@v0.19.3/app/ante/eth.go:73
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1
+        github.com/cosmos/cosmos-sdk@v0.45.9/types/handler.go:40
+github.com/evmos/ethermint/app/ante.EthValidateBasicDecorator.AnteHandle
+        github.com/evmos/ethermint@v0.19.3/app/ante/eth.go:483
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1
+        github.com/cosmos/cosmos-sdk@v0.45.9/types/handler.go:40
+github.com/evmos/ethermint/app/ante.EthMinGasPriceDecorator.AnteHandle
+        github.com/evmos/ethermint@v0.19.3/app/ante/fees.go:141
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1
+        github.com/cosmos/cosmos-sdk@v0.45.9/types/handler.go:40
+github.com/evmos/ethermint/app/ante.EthMempoolFeeDecorator.AnteHandle
+        github.com/evmos/ethermint@v0.19.3/app/ante/eth.go:555
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1
+        github.com/cosmos/cosmos-sdk@v0.45.9/types/handler.go:40
+github.com/evmos/ethermint/app/ante.EthSetupContextDecorator.AnteHandle
+        github.com/evmos/ethermint@v0.19.3/app/ante/eth.go:509
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1
+        github.com/cosmos/cosmos-sdk@v0.45.9/types/handler.go:40
+github.com/Canto-Network/Canto/v2/app/ante.NewAnteHandler.func1
+        github.com/Canto-Network/Canto/v2/app/ante/ante.go:41
+github.com/cosmos/cosmos-sdk/baseapp.(*BaseApp).runTx
+        github.com/cosmos/cosmos-sdk@v0.45.9/baseapp/baseapp.go:684
+github.com/cosmos/cosmos-sdk/baseapp.(*BaseApp).CheckTx
+        github.com/cosmos/cosmos-sdk@v0.45.9/baseapp/abci.go:242
+github.com/tendermint/tendermint/abci/client.(*localClient).CheckTxAsync
+        github.com/tendermint/tendermint@v0.34.21/abci/client/local_client.go:104
+github.com/tendermint/tendermint/proxy.(*appConnMempool).CheckTxAsync
+        github.com/tendermint/tendermint@v0.34.21/proxy/app_conn.go:126
+github.com/tendermint/tendermint/mempool/v0.(*CListMempool).CheckTx
+        github.com/tendermint/tendermint@v0.34.21/mempool/v0/clist_mempool.go:254
+github.com/tendermint/tendermint/rpc/core.BroadcastTxSync
+        github.com/tendermint/tendermint@v0.34.21/rpc/core/mempool.go:36
+github.com/tendermint/tendermint/rpc/client/local.(*Local).BroadcastTxSync
+        github.com/tendermint/tendermint@v0.34.21/rpc/client/local/local.go:99
+github.com/cosmos/cosmos-sdk/client.Context.BroadcastTxSync
+        github.com/cosmos/cosmos-sdk@v0.45.9/client/broadcast.go:116
+github.com/cosmos/cosmos-sdk/client.Context.BroadcastTx
+        github.com/cosmos/cosmos-sdk@v0.45.9/client/broadcast.go:26
+invalid nonce; got 4, expected 3: invalid sequence: invalid sequence, data: None)
+parseb@parseb-m1:~/Desktop/ODAO/WalllaW-COH$ forge script ./script/CantoDeploy.s.sol --rpc-url $CANTO --broadcast --verify
+$CANTOtestnetRPC   $CANTOzmainnetRPC  
+parseb@parseb-m1:~/Desktop/ODAO/WalllaW-COH$ forge script ./script/CantoDeploy.s.sol --rpc-url $CANTO --broadcast --verify
+$CANTOtestnetRPC   $CANTOzmainnetRPC  
+parseb@parseb-m1:~/Desktop/ODAO/WalllaW-COH$ forge script ./script/CantoDeploy.s.sol --rpc-url $CANTOtestnetRPC --broadcast --verify
+Error: 
+Deserialization Error: expected value at line 1 column 1. Response: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> plexnode.wtf</h2>
+      </div><!-- /.header -->
+
+      <div class="cf-section cf-highlight">
+        <div class="cf-wrapper">
+          <div class="cf-screenshot-container cf-screenshot-full">
+            
+              <span class="cf-no-screenshot error"></span>
+            
+          </div>
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+
+            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+
+            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">79afdfb11b889220</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">2a02:2f0e:d502:2700:6bfb:dfd6:9bd8:b84c</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+</body>
+</html>
+
+parseb@parseb-m1:~/Desktop/ODAO/WalllaW-COH$ forge script ./script/CantoDeploy.s.sol --rpc-url $CANTOzmainnetRPC --broadcast --verify
+[⠒] Compiling...
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  DROP ______________####_____ :  0x4A35E3C88438e8e6eEdB1Ea31fe34be2D4234200
+  WlW token ______________####_____ :  0x9d5F9f507E02a6B1b949192F3fD0340Cbd0971CB
+  VestMinimal ______________####_____ :  0xdFDbfF1551922e3eAB9C1B7DD8428C578bE705E3
+  CSR Vault _______###___(0<?) :  0x9D4722d668C4b790ab670c229c336389056615cb
+  ODAO  ______________####_____ :  0xFDe66FE92671fE8bde8cb3A5509Eda3dEbfE2F4D
+  MembraneR ______________####_____ :  0xfadc669a1D551bF2562ECc7760346c539a08d0F3
+  Member  ______________####_____ :  0xf3907764ED941A56985ED4BA4FB68984818Bd887
+  WalllaW DAO address  ______________####_____ :  0xfa705a6F2dD164B58588A8a6521aD9c182382155
+  parseb balance  ______________####_____ :  478000000000000000000000
+  DAO has vest _______###___(persec) :  57077625570776255
+
+## Setting up (1) EVMs.
+
+==========================
+
+Chain 7700
+
+Estimated gas price: 1200 gwei
+
+Estimated total gas used for script: 21209595
+
+Estimated amount required: 25.451514 ETH
+
+==========================
+
+###
+Finding wallets for all the necessary addresses...
+##
+Sending transactions [0 - 10].
+
+Transactions saved to: /home/parseb/Desktop/ODAO/WalllaW-COH/broadcast/CantoDeploy.s.sol/7700/run-latest.json
+
+Error: 
+(code: -32000, message: invalid nonce; got 7, expected 6: invalid sequence: invalid sequence, data: None)
+parseb@parseb-m1:~/Desktop/ODAO/WalllaW-COH$ forge script ./script/CantoDeploy.s.sol --rpc-url $CANTOzmainnetRPC --broadcast
+[⠘] Compiling...^C
+parseb@parseb-m1:~/Desktop/ODAO/WalllaW-COH$ forge clean
+parseb@parseb-m1:~/Desktop/ODAO/WalllaW-COH$ forge script ./script/CantoDeploy.s.sol --rpc-url $CANTOzmainnetRPC --broadcast --verify
+[⠒] Compiling...
+[⠆] Compiling 81 files with 0.8.13
+[⠘] Solc 0.8.13 finished in 11.15s
+Compiler run successful (with warnings)
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> src/interfaces/structs.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> src/errors.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> script/GoerliDeploy.s.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> script/LocalDeploy.s.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> src/LinearVest.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> src/LongCall.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> src/interfaces/IERC721.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> src/interfaces/ILongCall.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> test/eject.t.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> test/endpointWithdraw.t.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> test/externalExecute.t.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> test/gravitypull.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> test/inflation.t.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> test/mocks/mExtern.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> test/mocks/mNewLC.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> test/oDAO.t.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> test/redistribute.t.sol
+
+
+
+warning[3420]: Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.13;"
+--> test/utils/writeToFile.t.sol
+
+
+
+warning[6321]: Warning: Unnamed return variable can remain unassigned. Add an explicit return with value to all non-reverting code paths or name the variable.
+   --> src/DAOinstance.sol:296:68:
+    |
+296 |     function _majoritarianUpdate(uint256 newVal_) private returns (uint256) {
+    |                                                                    ^^^^^^^
+
+
+
+warning[6321]: Warning: Unnamed return variable can remain unassigned. Add an explicit return with value to all non-reverting code paths or name the variable.
+  --> test/mocks/ExtCallBoolMock.sol:12:45:
+   |
+12 |     function flipSwitch() external returns (bool) {
+   |                                             ^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+  --> src/DAO20.sol:15:81:
+   |
+15 |     constructor(address baseToken_, string memory name_, string memory symbol_, uint8 decimals_)
+   |                                                                                 ^^^^^^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+   --> src/Member1155.sol:194:25:
+    |
+194 |     function _batchBurn(address from, uint256[] memory ids, uint256[] memory amounts) internal override {
+    |                         ^^^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+   --> src/Member1155.sol:194:39:
+    |
+194 |     function _batchBurn(address from, uint256[] memory ids, uint256[] memory amounts) internal override {
+    |                                       ^^^^^^^^^^^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+   --> src/Member1155.sol:194:61:
+    |
+194 |     function _batchBurn(address from, uint256[] memory ids, uint256[] memory amounts) internal override {
+    |                                                             ^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+   --> src/Member1155.sol:198:25:
+    |
+198 |     function _batchMint(address to, uint256[] memory ids, uint256[] memory amounts, bytes memory data)
+    |                         ^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+   --> src/Member1155.sol:198:37:
+    |
+198 |     function _batchMint(address to, uint256[] memory ids, uint256[] memory amounts, bytes memory data)
+    |                                     ^^^^^^^^^^^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+   --> src/Member1155.sol:198:59:
+    |
+198 |     function _batchMint(address to, uint256[] memory ids, uint256[] memory amounts, bytes memory data)
+    |                                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+   --> src/Member1155.sol:198:85:
+    |
+198 |     function _batchMint(address to, uint256[] memory ids, uint256[] memory amounts, bytes memory data)
+    |                                                                                     ^^^^^^^^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+   --> src/Member1155.sol:210:9:
+    |
+210 |         address from,
+    |         ^^^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+   --> src/Member1155.sol:211:9:
+    |
+211 |         address to,
+    |         ^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+   --> src/Member1155.sol:212:9:
+    |
+212 |         uint256[] calldata ids,
+    |         ^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+   --> src/Member1155.sol:213:9:
+    |
+213 |         uint256[] calldata amounts,
+    |         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+   --> src/Member1155.sol:214:9:
+    |
+214 |         bytes calldata data
+    |         ^^^^^^^^^^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+  --> src/VestMinimal.sol:24:17:
+   |
+24 |     constructor(uint256 _k, address WALLLAW_DAO, address WALLLAW_TOKEN) {
+   |                 ^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+  --> src/VestMinimal.sol:35:22:
+   |
+35 |     function setVest(address _token, address _beneficiary, uint256 _amount, uint256 _days) external {
+   |                      ^^^^^^^^^^^^^^
+
+
+
+warning[5667]: Warning: Unused function parameter. Remove or comment out the variable name to silence this warning.
+  --> src/VestMinimal.sol:35:38:
+   |
+35 |     function setVest(address _token, address _beneficiary, uint256 _amount, uint256 _days) external {
+   |                                      ^^^^^^^^^^^^^^^^^^^^
+
+
+
+warning[2072]: Warning: Unused local variable.
+  --> test/wrapBurn.t.sol:41:9:
+   |
+41 |         uint256 b1 = internalT.balanceOf(Agent3);
+   |         ^^^^^^^^^^
+
+
+
+warning[2072]: Warning: Unused local variable.
+  --> test/wrapBurn.t.sol:74:9:
+   |
+74 |         uint256 s = vm.snapshot();
+   |         ^^^^^^^^^
+
+
+
+warning[2072]: Warning: Unused local variable.
+  --> test/wrapBurn.t.sol:76:9:
+   |
+76 |         bool x = internalT.unwrapBurn(b);
+   |         ^^^^^^
+
+
+
+warning[2018]: Warning: Function state mutability can be restricted to pure
+   --> src/Member1155.sol:194:5:
+    |
+194 |     function _batchBurn(address from, uint256[] memory ids, uint256[] memory amounts) internal override {
+    |     ^ (Relevant source part starts here and spans across multiple lines).
+
+
+
+warning[2018]: Warning: Function state mutability can be restricted to pure
+   --> src/Member1155.sol:198:5:
+    |
+198 |     function _batchMint(address to, uint256[] memory ids, uint256[] memory amounts, bytes memory data)
+    |     ^ (Relevant source part starts here and spans across multiple lines).
+
+
+
+warning[2018]: Warning: Function state mutability can be restricted to pure
+   --> src/Member1155.sol:209:5:
+    |
+209 |     function safeBatchTransferFrom(
+    |     ^ (Relevant source part starts here and spans across multiple lines).
+
+
+
+Script ran successfully.
+
+== Logs ==
+  DROP ______________####_____ :  0x0996Bb36C3d0295cA26E66Ae891fEa1B653D13a8
+  WlW token ______________####_____ :  0xCCb7aBaEB4A9417f57b063f01F87f787b6739b0D
+  VestMinimal ______________####_____ :  0xa5a0eF557BD8fe585Bb3A7843641e5b0ED367399
+  CSR Vault _______###___(0<?) :  0xdFDbfF1551922e3eAB9C1B7DD8428C578bE705E3
+  ODAO  ______________####_____ :  0x78deE2DE629ff136032AF1da57230A7659B28Bd7
+  MembraneR ______________####_____ :  0x2fBeB1162d1b1Ad5E737288c1Bd6446A5B75ca3E
+  Member  ______________####_____ :  0x4A35E3C88438e8e6eEdB1Ea31fe34be2D4234200
+  WalllaW DAO address  ______________####_____ :  0x4Ff4693f419544054171EEaE689D7C132f4C3C61
+  parseb balance  ______________####_____ :  478000000000000000000000
+  DAO has vest _______###___(persec) :  57077625570776255
+
+## Setting up (1) EVMs.
+
+==========================
+
+Chain 7700
+
+Estimated gas price: 1200 gwei
+
+Estimated total gas used for script: 21224534
+
+Estimated amount required: 25.4694408 ETH
+
+==========================
+
+###
+Finding wallets for all the necessary addresses...
+##
+Sending transactions [0 - 10].
+
+Transactions saved to: /home/parseb/Desktop/ODAO/WalllaW-COH/broadcast/CantoDeploy.s.sol/7700/run-latest.json
+
+Error: 
+(code: -32000, message: failed to check sender balance: sender balance < tx cost (5152622891500000000 < 13660000800000000000): insufficient funds: insufficient funds, data: None)
+parseb@parseb-m1:~/Desktop/ODAO/WalllaW-COH$ ^C
+parseb@parseb-m1:~/Desktop/ODAO/WalllaW-COH$ ^C
+parseb@parseb-m1:~/Desktop/ODAO/WalllaW-COH$ ^C
+parseb@parseb-m1:~/Desktop/ODAO/Wall
+parseb@parseb-m1:~/Desktop/ODAO/Wall
+parseb@parseb-m1:~/Desktop/ODAO/Walll
+parseb@parseb-m1:~/Desktop/ODAO/WalllaW-COH$ 
