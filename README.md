@@ -3,7 +3,7 @@
 ### Live Demo Site
 https://testenv.d2pcctj3be54sw.amplifyapp.com
 
-###Run Locally
+### Run Locally
 npm start (yarn start)
 We are continuing to polish and push full launch on Canto this week.
 
