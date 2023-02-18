@@ -3,6 +3,7 @@
 
 - Contracts repo: https://github.com/LeetSwap/leetswap-contracts  
 - Webapp repo (v2 branch): https://github.com/LeetSwap/leetswap-interface/tree/v2
+- Live demo webapp: https://v2.leetswap.finance
 
 Up until now LeetSwap was using CantoDEX contracts under the hood. For this month's hackathon, we've been building a custom new DEX that routes through our upcoming v2 pairs, but also uses the free liquidity from CantoDEX FPI.
 
