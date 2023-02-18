@@ -1,3 +1,16 @@
+
+
+Live Demo Site
+https://testenv.d2pcctj3be54sw.amplifyapp.com
+Run Locally
+npm start (yarn start)
+We are continuing to polish and push full launch on Canto this week.
+Link to repo:
+https://github.com/canteen-dev/LL-front-end
+
+
+Thank you for your time, consideration, and the opportunity to participate in COH5!
+
 ## Canto Online Hackathon | Chapter 1, Season 5 | Feb 1 - 19
 
 [**Apply to Hack**](https://eugnmr538db.typeform.com/to/BCe0ZX8H)  
