@@ -19,7 +19,7 @@ Platform Features:
 
 Website: https://sites.google.com/view/drone-dao-analytics/home?authuser=1
 
-Demos: https://drive.google.com/drive/u/3/folders/19C7QHVliJrDj8lOZd7qLU-h9SS9I6Qs1
+Slides and Demos: https://drive.google.com/drive/u/3/folders/19C7QHVliJrDj8lOZd7qLU-h9SS9I6Qs1
 
 # Canto, IBC and Cosmos Eco-system
 
