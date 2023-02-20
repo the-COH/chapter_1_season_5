@@ -4,7 +4,7 @@ Technical solution for security and monitoring road incidents using Canto, IBC, 
 
 Goal: Ensure effective design, engineering and delivery of a decentralized intelligent solution to make roads safer and better using Canto, IBC, Cosmos, Ethereum, IPFS and OSS AI.
 
-Pitch Video: https://drive.google.com/drive/u/3/folders/1xGNPkJ76kIZM4fdm2143mYhlK2dLewjz
+Slides and Pitch Video: https://drive.google.com/drive/u/3/folders/1xGNPkJ76kIZM4fdm2143mYhlK2dLewjz
 
 Website: https://sites.google.com/view/canto-aspiring-road-safety/home?authuser=1
 
