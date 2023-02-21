@@ -1,102 +1,108 @@
-## Canto Online Hackathon | Chapter 1, Season 5 | Feb 1 - 19
+[![Foundry][foundry-badge]][foundry]
 
-[**Apply to Hack**](https://eugnmr538db.typeform.com/to/BCe0ZX8H)  
-
-The Canto Online Hackathon (COH) is a virtual summit that invites developers, creatives, and communicators to launch the next wave of apps, infrastructure, and original work on Canto. 
-
-
-
-## **About Canto**
-
-Canto is a permissionless blockchain built with the Cosmos SDK that offers an EVM execution layer and core financial primitives, including a novel decentralized exchange, lending market, and unit of account (NOTE). In support of Canto’s Free Public Infrastructure – a framework that advocates for DeFi primitives to be provided as public utilities, among other tenets –  the COH encourages projects centered on sustainability, authenticity, and creativity. 
-
-
-## **Bounties & Building Categories**
-Builders will compete for prizes from a 300,000 CANTO rewards pool. The overall winner will be awarded 100,000 CANTO while category winners will receive 40,000 CANTO.
-
-* **Ecosystem Support** 
-Analytics, tooling, and sites for Canto awareness. 
-Prize: 40,000 CANTO
-* **NFTs**
-Collections that break new ground, and/or include experimental aspects. 
-Prize: 40,000 CANTO
-* **DeFi & Infrastructure** 
-Apps that leverage Canto’s Infrastructure, including its [Free Public Infrastructure](https://docs.canto.io/readme/free-public-infrastructure-fpi) of DeFi Primitives and [Contract Secured Revenue](https://docs.canto.io/evm-development/contract-secured-revenue-csr). 
-Prize: 40,000 CANTO
-* **New Things**
-The most divergent ideas: games, DAOs, all things weird.  
-Prize: 40,000 CANTO
-* **Notable Builds**
-Remarkable projects will be awarded as judges see fit. 
-Prize: 40,000 CANTO
-* **Overall Winner**
-Prize: 100,000 CANTO
-
-
-## **Judging Criteria**
-
-**20%** – Originality, Creativity, & Innovation.
-
-**20%** – Canto-ish-ness. How well projects do one of the following items:
-* In step with Canto culture
-* Leverages or supports Canto Free Public Infrastructure
-* Leverages Contract Secured Revenue.
-
-**20%** – Expertise Required
-A high level of skill or knowledge or competency was demonstrated by the team members
-
-**20%** – User Experience
-Project presents as intuitive and understandable for its targeted user profile.
-
-**20%** – Sustainability
-A thoughtful plan for launch, maintenance, and/or further development.  
+[foundry]: https://getfoundry.sh/
+[foundry-badge]: https://img.shields.io/badge/Built%20with-Foundry-FFDB1C.svg
 
 
 
-## **Judges**
-
-The COH is pleased to announce the following judges for Chapter 1, Season 5:
-
-* [**Ciniz**](https://twitter.com/screentimes)  –  Inventor of Web+, CEO, Punkbusters
-* [**Chjango Unchained**](https://twitter.com/chjango) – Host, Interchain.fm; prev. Cosmos Head of Ecosystem, Osmosis / Cosmos
-* [**Zak Cole**](https://twitter.com/0xzak)– CTO, [Slingshot Finance](https://slingshot.finance)
-* [**Joseph Delong**](https://twitter.com/josephdelong)  – CTO, [Astaria.xyz](https://astaria.xyz)
-* [**Jelena Djuric**](https://twitter.com/jelenaaa____) – Contributor, Cosmos
-* [**Gabriel Haines**](https://twitter.com/gabrielhaines)   – No. 1 Web+ Content Creator
-* [**Brad Nickel**](https://twitter.com/b05crypto) – Founder, MissionDeFi.com
-* [**Jonny Rhea**](https://twitter.com/JonnyRhea)  – Co-Founder, Element.fi
-* [**Derek Walkush**](https://twitter.com/Derekmw23)  –  DeFi Investor, [Variant.fund](https://variant.fund/articles/canto-a-layer-1-incentive-experiment/)
+# WalllaW
 
 
+A <b>Decentralized Internet Organization</b> framework that instrumentalizes fungibility to facilitate access to fully trustless and explainable collective efforts. It primarily accomplishes this by means of three low-complexity devices: inflation, majority vote and membership.
 
-## **Important Dates**
+<br> 
 
-**2/1** – Registration Ongoing at [**thecoh.build**](https://thecoh.build)  
-**2/1** – Begin Building, Communicate in [**the COH chat**](https://t.me/+aXvNO-ZcrWZjYTIx).   
-**2/3** – The Elevator, 630pm-730pm UTC, [**Save Your Spot**](https://streamyard.com/watch/hw4sUkVRdPXc)  
-The Elevator is a project pitch session: your chance to pitch your idea(s) to fellow builders and Canto mentors. Get direct feedback, learn about potential projects, and grow your team.   
-**2/8** – [**Midpoint Check.**](https://form.jotform.com/230296102567151) Share Project Title, Summary, & Progress Update with COH organizers.   
-**2/17** – [**Projects Due.** ](https://form.jotform.com/230296068401149)Must submit pre-recorded video and PR to this repo by 11:59pm UTC.  
-**2/19** – [**Judging Ceremony** ] at 6pm UTC. Event link TBA   
-**2/20-22** – Winners Announced (TBD)  
+[lol.walllaw.lol - POC frontend (requires working knowledge)](https://lol.walllaw.lol/)
 
-## **Project Requirements** ## 
+[dino.skin - alternative description](https://dino.skin/) 
 
-**Teams must submit a PR to this repo before 11:59pm UTC on 2/17.** 
-If builders wish to keep their project private, please contact hackathon organizers to ensure judges' github handles are added to your project. 
+<br>
 
-**Teams must provide a pre-recorded video (max 5 minutes).** 
-This video will be played during the live judging ceremony and can be a working demo and/or a presentation outlining the project (i.e. what was accomplished during the COH, what’s next). For examples of hackathon presentation videos please review the [judging ceremony](https://www.youtube.com/watch?v=A4A4y4FE6u0) from a previous COH season. For guidelines on recording your video, see [see here.](https://docs.google.com/document/d/1ROIdoGOL9zmSGpq9081uQ3t0HH1WNlObn5HREgoP4Pk/edit?usp=sharing)
+# Airdop
 
-*Note: Any teams requiring assistance with translation and subtitling of their video can contact the hackathon organizers for accommodations. All languages are welcome.* 
+Airdrops 100 WL$ base WalllaW ecosystem value accrual token to ~5k, mainly developer addresses. Addresses that have participated in the Ethereum ecosystem in the past two years. (Hackathons, etc.)
 
-## **Builder Resources**
-## 
+## Canto-iness
 
-* **The COH Telegram** – Builders are encouraged to discuss projects in [The COH Builders Telegram Channel](https://t.me/+aXvNO-ZcrWZjYTIx) 
-* **Project Ideas** - See [this spreadsheet](https://docs.google.com/spreadsheets/d/1Ecp7ixsFEtIyZw4qzmLYOOT6NHUWqHn0bZHi1eaY6DQ/edit?usp=sharing) for some project ideas.
-* **[Attend the Elevator Project Pitch Session](https://streamyard.com/watch/hw4sUkVRdPXc)** (2/3) to pitch your idea, get direct feedback from mentors, and to meet other builders. 
-* **Book a private meeting** with Headwater to get help or direction – https://calendly.com/nassim-/30min
-* **Canto EVM Development Documentation** – https://docs.canto.io/evm-development/overview
-* **Canto Testnet Faucet (Discord)** – https://discord.com/channels/993968517906960445/1029450708371656715
-*  **Canto Icons & Logos** – Canto is a headless brand, meaning there is no official brand identity. You're encouraged to change and ideate on any Canto visuals, or utilize some common visuals here: https://github.com/Canto-Network/canto-branding-assets
+All CSR (contract secured revenue) generated by the DAO factory and all transactions of deployed DAOs and sub-DAOs accrue to the $WL token in the following way. FIrst. $WL has a fixed 10 mil. supply. Secondly 90% of $WL supply is locked and linearly vests into the base WalllaW DAO over the next ~5 years (~!). The thurstile CSR NFT is owned by a vault that acummulates the generated CSR revenue. Lastly, CANTO can be redeemed by burning $WL proportionally ("burn 1% of WL supply to get 1% accrued CANTO"). In a sense, as time passes, assuming any sustained usage, $WL increases in value as relative to CANTO. <br><br>
+The virtuous circle this is aiming at: attract builders - to build usable interfaces or whatever the ecosystem feels it needs - that drives usage - that generates, acummulates and redistributes revenue via $WL token. (the token is the DAO. always has been.)
+
+___________________________
+
+[![Foundry][foundry-badge]][foundry]
+
+[foundry]: https://getfoundry.sh/
+[foundry-badge]: https://img.shields.io/badge/Built%20with-Foundry-FFDB1C.svg
+
+
+
+# WalllaW
+
+
+A <b>Decentralized Internet Organization</b> framework that instrumentalizes fungibility to facilitate access to fully trustless and explainable collective efforts. It primarily accomplishes this by means of three low-complexity devices: inflation, majority vote and membership.
+
+### DIO?
+
+Decentralized Internet Organisations are anarchically constituted <b>membranes that move</b> towards a continuously defined forward.<br>
+
+tldr; wut wallaw? <br>
+Self-replicates, uses "guild.xyz"-like authorisation and coordinape-like circles to determine its identity and direct its energy. No proposals.
+
+## How does it work
+
+
+### Membrane
+
+The membrane determines if an agent is within or outside the organisation. It is constituted out of a list of tokens and balances and, provided an agent satisfies them as eligibility conditions, associated with a membership token. The membership token gives one access to all internal functionality of that specific entity and it can be revoked through the fault of the possessor or change in eligibility conditions. Each sub-DAO instance is independent in its determinations of membership. As such external specialised work or other DAOs can be appended. The membrane is expected to link to metadata such as social media communication channels or membership-gated workspaces. 
+
+<img src="https://user-images.githubusercontent.com/5999852/216822881-9f3ca3e9-5091-46da-af81-2d42e2715d0c.png" width="100%">
+<br>
+
+### Movement
+
+Movement occurs through agent-driven initiative and retroactive, contiguous allocation of resources. Resource allocation is a feedback mechanism. Whether taking the form of a separate working space (subDAO) or within an existing one, insufficient allocations for or dwindling support in favour of other, potentially more pressing efforts, is to be interpreted as feedback reflecting on the work in context. Initiating movement or calibrating energy allocations is primarily available only to members. Local power is proportional with an agent's stake.
+
+
+
+<img src="https://user-images.githubusercontent.com/5999852/216976509-c860f8d0-5799-4a36-9345-a6d706f5e340.png" width="100%">
+<br>
+
+### Value Flow
+
+<img src="https://user-images.githubusercontent.com/5999852/216985884-d163eb6f-f375-405b-ae6f-7d3a99d907fe.png" width="100%">
+<br>
+
+
+
+### Pluralism and Versatility
+
+Majority vote driven governance is not known for granting much room to emergent, novel, potentially destabilising diversities of expression. While the base decision mechanisms for the definition of an existing space (membrane and identity changes) within WalllaW relies on circumstantial majorities, the right to create new autonomous spaces within contexts is bound by simple membership. It is as such likely for a type of 'majoritarian pluralism' to be the norm given that the parameters one can use to define what constitutes a majority are boundless.
+<br><br>
+The layout formed by the ways in which value quite literally trickles down might be of concern. I will not be able to stress this enough, but, any such space has the capacity to perform almost any arbitrary action an ethereum account can. That means, among other things, that a sub-DAO can at any point migrate outside the field of gravity of its incubating parent. [...] While this opens the door to a very wide range of security concerns, it is nonetheless a capability worth fighting for. Time delays, or more creative protection mechanisms can work to this end.
+<br><br>
+
+A hypothetical example of versatility: 5% MKR$ owners create a WalllaW for the purpose of running experiments that do not find their place within the core organisation. They do their thing, but also retain their ability to vote as a block within the original, dominating governance process. One aspect worth entertaining here is what happens when such a block vote becomes decisive. What WalllaW means for dissent and coalition building given that preferred resource allocations highlight the operating ideology of agents should also be considered.
+
+
+
+
+### Anticapture
+
+#### Economic Resilience
+
+There's a set of beliefs and assumptions that grounds the security model of WalllaW. Among those is that "DAOs are for uncommon shared interests". As such, DAO governance, participating in it, is not for profit but for the advancement of said shared interest. It follows that it not only can but also logically should operate at a loss. In WalllaW there is no direct economic benefit for purely formal participation. Quite the contrary. 
+
+While capital deposits do increase one's swaying power, they do so at economic cost due to inflation. You not only get let’s say, .9 of same token value, but also likely provide an advantageous exit opportunity for others given that any new deposit is a deflationary event. Governance costs and one ought to participate in governance only if they believe their input is valuable to the extent they are willing to sacrifice economic value to make themselves heard. And that should by no means be controversial. There is a cost to you reading this as there is a cost to keeping up with interminable chains of opinions and proposals. Governance is for those that care enough to accept some economic downside for the future progress to be brought upon the collective through their input. For all others, holding the token should be good enough.
+
+
+
+#### Social Resilience
+
+Membranes are what primarily defines the identity of a (sub)DAO. A membrane can change and a member can find itself outside of it. Member or not, they are entitled and can access their legitimately gained share of capital. Members can coordinate outside of pure majoritarian consensus and migrate and legitimise another entity in the face of attacks. A closing of rank of sorts. And the cool thing about it is that just as well as it can reconfigure for immune purposes so it can for merging or cross-DAO coordination simply by  using the same membrane id.
+
+<br>
+<br>
+
+##### Disclaimer
+<i>These smart contracts are being provided as is. No guarantee, representation or warranty is being made, express or implied, as to the safety or correctness of the user interface or the smart contracts. They have not been audited and as such there can be no assurance they will work as intended, and users may experience delays, failures, errors, omissions, loss of transmitted information or loss of funds. The creators are not liable for any of the foregoing. Users should proceed with caution and use at their own risk.</i>
+
