@@ -1,4 +1,4 @@
-@@ -71,14 +71,14 @@ The COH is pleased to announce the following judges for Chapter 1, Season 5:
+The COH is pleased to announce the following judges for Chapter 1, Season 5:
 
 ## **Important Dates**
 
