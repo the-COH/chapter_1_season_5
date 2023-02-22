@@ -41,6 +41,29 @@ Simply follow the script prompts and select/input your answers
 * Passage
 * Stride
 
+## **About Turnstile Finance**
+App
+https://app.turnstile.finance/
+
+Twitter
+https://twitter.com/turnstile_fi
+
+Github
+Front
+https://github.com/TurnstileFinance/turnstile-bond-web
+Back
+https://github.com/TurnstileFinance/turnstile-bond-protocol
+
+
+
+**Introduction**
+Turnstile finance is a protocol that can borrow and lend canto, based on Turnstile bond.
+
+**Targeted user profile**
+1. Turnstile Token Holders - smart contract dev
+3. DeFi users - canto holders
+4. New project launchers - canto newbie builders / collab with canto.tools, and CoH itself
+
 
 ## To Do List
 - [x] Add OS Select
