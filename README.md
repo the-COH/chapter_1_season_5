@@ -1,4 +1,4 @@
-# Transport Monitor Pro
+# Transport Monitor
 
 Technical solution for security and monitoring road incidents using Canto, IBC, Cosmos, Ethereum, IPFS and OSS AI models; enable early detection and prevention of accidents.
 
