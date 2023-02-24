@@ -1,0 +1,17 @@
+{
+	"contracts": {
+		"BlockTalk": "cadence/contracts/BlockTalk.cdc"
+	},
+	"networks": {
+		"emulator": "127.0.0.1:3569",
+		"mainnet": "access.mainnet.nodes.onflow.org:9000",
+		"sandboxnet": "access.sandboxnet.nodes.onflow.org:9000",
+		"testnet": "access.devnet.nodes.onflow.org:9000"
+	},
+	"accounts": {
+		"emulator-account": {
+			"address": "f8d6e0586b0a20c7",
+			"key": "484c32b2a65327a493fddcd8c193cd08d181c2c00dca17c9595fde662e1c7866"
+		}
+	}
+}
