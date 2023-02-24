@@ -1,0 +1,43 @@
+name: Build a static wallet bundle
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'src/**'
+
+  workflow_dispatch:
+
+jobs:
+  buildBundle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Build Bundle
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+          cache: 'npm'
+
+      - run: npm install
+      - run: npm run build
+      - run: npm run export
+
+      - uses: papeloto/action-zip@v1
+        with:
+          files: out/
+          dest: ./go/wallet/bundle.zip
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: build a static bundle
+          title: Update Built Bundle
+          body: This PR is automatically generated to update the build bundle of the dev-wallet which is then used by go library for integration in other tools.
+          assignees: sideninja
+          reviewers: justinbarry,JeffreyDoyle,chasefleming,gregsantos
+          branch: update-bundle
+          base: main
