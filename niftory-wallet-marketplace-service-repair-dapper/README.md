@@ -1,18 +1,6 @@
-# NFT Storefront with Dapper Wallet
+# NFT Marketplace with Dapper Wallet
 
-This is an NFT Storefront using Dapper Wallet built on Next.js that uses the [Niftory API](https://docs.niftory.com/home/v/api/).
-
-## See it in action
-
-Visit https://dapper-sample.niftory.com/ to see a deployed instance of this app and explore the capabilities you can get started with for free!
-
-### Test credit card payments
-
-Dapper Wallet utilizes Circle for credit card payments. To try out the purchase flow, you can use [Circle's test credit card numbers](https://developers.circle.com/developer/docs/test-card-numbers).
-
-## Usage
-
-Let's get you set up!
+We are using Niftory API to great a walletless experience for payments related to driver license procurement, insurance payment, ride sharing, first aid delivery via ambulance. We are integrating it with Transport Flow NFC payments experience. We are at an early stage of experimentation and learning from the walletless example implementation using Niftory API and extending it for the driver license procurement use-case.
 
 ### Config
 
