@@ -1,0 +1,23 @@
+[package]
+name = "staking"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+crate-type = ["cdylib", "lib"]
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[profile.release]
+overflow-checks = true
+
+[dependencies]
+anchor-lang = "0.24.2"
+anchor-spl = "0.24.2"
+mpl-token-metadata = {version = "1.2.5", features = ["no-entrypoint"]}
