@@ -24,7 +24,7 @@ Slides and Demos: https://drive.google.com/drive/u/6/folders/1-YWioQYGuWWbkKP290
 Application in Transport Management: https://sites.google.com/view/solana-aspiringroadsafety/home?authuser=2&read_current=1
 
 
-# Beneficiaries of Drone DAOs
+# Beneficiaries/Applications of Drone DAOs
 
 1. Transport Management: An analytics and incident management platform for citizens, police officers and drivers to report and manage incidents, detect and prevent accidents on both mobile and web in a secure and simplified manner. With a mix of intelligent hardware, software on SAP Hana Database, Solana blockchain network with Drone DAOs, decentralized database, we provide intelligent feedback about drive quality and help analyze past incidents, as well as predict future incidents, enable road safety counseling. Further, we enable private payments for vehicle repair on Solana using Elusiv sdk and nft voting for the service providers using Drone Daos.
 
