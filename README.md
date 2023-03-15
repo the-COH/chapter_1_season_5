@@ -17,9 +17,9 @@ Platform Features:
 •Drone Incident Reporting : Publish drone incident reports.
 
 
-Website: https://sites.google.com/view/drone-dao-analytics/home?authuser=1
+Website: https://sites.google.com/view/drone-dao/home?authuser=2
 
-Slides and Demos: https://drive.google.com/drive/u/3/folders/19C7QHVliJrDj8lOZd7qLU-h9SS9I6Qs1
+Slides and Demos: https://drive.google.com/drive/u/6/folders/1-YWioQYGuWWbkKP290_fAHL80XdN0dk3
 
 
 # Solana Blockchain and Elusiv Eco-system
