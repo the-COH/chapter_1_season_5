@@ -37,7 +37,7 @@ Application in Transport Management: https://sites.google.com/view/solana-aspiri
 
 # Solana Blockchain and Elusiv Eco-system
 
-1. Solana Information Explorer: We are using Solana Multicurrency web wallet and information explorer with data analytics powered by SocialCalc for managing information and payments to emergency service providers, maintenance and repair servicemen and also insuarnce and cab aggregator providers for availing their services. SocialCalc with Solana explorer enables tabulation, data organization and management, is an easy-to-use analysis tool that summarises core data and features of a Token or NFT such as chains used, origin, issuer, energy consumption, and minting method.  We also enable private payments for vehicle repair on Solana using Elusiv sdk and nft voting for the service providers using daos. 
+1. Solana for Transport Service and Payment Management: We are using Solana Multicurrency web wallet and information explorer with data analytics powered by SocialCalc for managing information and payments to emergency service providers, maintenance and repair servicemen and also insuarnce and cab aggregator providers for availing their services. SocialCalc with Solana explorer enables tabulation, data organization and management, is an easy-to-use analysis tool that summarises core data and features of a Token or NFT such as chains used, origin, issuer, energy consumption, and minting method.  We also enable private payments for vehicle repair on Solana using Elusiv sdk and nft voting for the service providers using daos. 
 
 Multi currency web wallet is very helpful in cases where the road incident involves tourists or foreign diplomats.
 
