@@ -37,11 +37,13 @@ Application in Transport Management: https://sites.google.com/view/solana-aspiri
 
 # Solana Blockchain and Elusiv Eco-system
 
-1. Solana for Transport Service and Payment Management: We are using Solana Multicurrency web wallet and information explorer with data analytics powered by SocialCalc for managing information and payments to emergency service providers, maintenance and repair servicemen and also insuarnce and cab aggregator providers for availing their services. SocialCalc with Solana explorer enables tabulation, data organization and management, is an easy-to-use analysis tool that summarises core data and features of a Token or NFT such as chains used, origin, issuer, energy consumption, and minting method.  We also enable private payments for vehicle repair on Solana using Elusiv sdk and nft voting for the service providers using daos. Please visit https://github.com/aspiringsecurity/Drone-DAO/tree/main/Drone-DAO-Solana and https://github.com/aspiringsecurity/Drone-DAO/tree/main/Drone-Modules-Solana-IBC
+1a. Solana for Transport Service and Payment Management: We are using Solana Multicurrency web wallet and information explorer with data analytics powered by SocialCalc for managing information and payments to emergency service providers, maintenance and repair servicemen and also insuarnce and cab aggregator providers for availing their services. SocialCalc with Solana explorer enables tabulation, data organization and management, is an easy-to-use analysis tool that summarises core data and features of a Token or NFT such as chains used, origin, issuer, energy consumption, and minting method.  We also enable private payments for vehicle repair on Solana using Elusiv sdk and nft voting for the service providers using daos. Please visit https://github.com/aspiringsecurity/Drone-DAO/tree/main/Drone-DAO-Solana and https://github.com/aspiringsecurity/Drone-DAO/tree/main/Drone-Modules-Solana-IBC
 
 Multi currency web wallet is very helpful in cases where the road incident involves tourists or foreign diplomats. Reference used for development: https://github.com/solana-labs/solana-pay-scaffold
 
-2. NFT creation and minting on Solana: We are also developing an NFT creation and minting system on Solana for NFC tags of automobiles. Please visit https://github.com/aspiringsecurity/Drone-DAO/tree/main/solana-nft-mint-module
+b. Analytics tooling and Elusiv SDK: Analytics tooling for visualization, tabulation, collaboration and organization of data along with elusiv sdk for private payments: https://github.com/aspiringsecurity/Drone-DAO/tree/main/solana-canto-analytics-tooling
+
+2. NFT creation and minting on Solana: We are also developing an NFT creation and minting system on Solana for NFC tags of UAVs. Please visit https://github.com/aspiringsecurity/Drone-DAO/tree/main/solana-nft-mint-module
 
 3. Audio: We are extending and adapting the Audius layer on the Solana ecosystem to enable audio based streaming of an incident event. We are using the lighthouse SDK for storage and Solana Login Module for identity authentication and authorization: https://github.com/aspiringsecurity/Drone-DAO/tree/main/Drone-Modules-Solana-IBC/solana-login-module
 
@@ -57,6 +59,8 @@ Multi currency web wallet is very helpful in cases where the road incident invol
 3. Ability to generate NFT and ease of identity management.
 
 4. We are generating an NFT for NFC tags for drones and UAVs and spare parts at the time of service and repair workflows.
+
+5. Analytics tooling for visualization, tabulation, collaboration and organization of data.
 
 5. Identity management, ability to extend the solution using IBC and reducing misinformation at the time of Incident analysis and reporting are the key reasons for experimenting with Canto.
 Overall, Canto enables investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, incident severity analysis based on the decentralize voting at the IBC chain.
