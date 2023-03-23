@@ -1,6 +1,6 @@
 # Drone DAO
 
-Ensure effective design, engineering and delivery of solution for detecting & managing UAVs & Drones using modular iot gateway device solution, Waves blockchain and DAO tooling, Solana and Canto blockchain, Elusiv, IBC and Cosmos, setting up geo fences using predictive analytics, expert.ai nlp apis, automation, Ethereum & Filecoin eco-system tools.
+Ensure effective design, engineering and delivery of solution for detecting & managing UAVs & Drones using modular iot gateway device solution, Solana, Waves and Canto blockchain, Elusiv, IBC and Cosmos, setting up geo fences using predictive analytics, expert.ai nlp apis, automation, Ethereum & Filecoin eco-system tools.
 
 Platform Features:
 
