@@ -17,9 +17,9 @@ Platform Features:
 •Drone Incident Reporting : Publish drone incident reports.
 
 
-Website: https://sites.google.com/view/drone-dao/home?authuser=2
-
 Slides and Demos: https://drive.google.com/drive/u/6/folders/1-YWioQYGuWWbkKP290_fAHL80XdN0dk3
+
+Website: https://sites.google.com/view/drone-dao/home?authuser=2
 
 Application in Transport Management: https://sites.google.com/view/solana-aspiringroadsafety/home?authuser=2&read_current=1
 
@@ -48,6 +48,22 @@ b. Analytics tooling and Elusiv SDK: Analytics tooling for visualization, tabula
 3. Audio: We are extending and adapting the Audius layer on the Solana ecosystem to enable audio based streaming of an incident event. We are using the lighthouse SDK for storage and Solana Login Module for identity authentication and authorization: https://github.com/aspiringsecurity/Drone-DAO/tree/main/Drone-Modules-Solana-IBC/solana-login-module
 
 4. Video: We are developing on the Huddle01 application layer and creating a bridge with the Solana blockchain to enable video conferencing and streaming on-chain. We are utilizing IPFS and Filecoin for storage purposes. We also plan to use Aptos along with Livepeer for developing a video command and control center and make it available via a bridge network. Please visit https://github.com/aspiringsecurity/Drone-DAO/tree/main/Drone-Modules-Solana-IBC.
+
+
+# Waves Blockchain
+
+Waves blockchain sync with UAV incident database: - https://github.com/aspiringsecurity/Drone-DAO/tree/main/Wave-Modules/blockchain-postgres-sync
+
+Auction dapp in Waves for UAV and drone routes with geolocation measurements: https://github.com/aspiringsecurity/Drone-DAO/tree/main/Wave-Modules/auction-routes-drones
+
+Waves Wallet dapp for second hand purchase of UAVs: https://github.com/aspiringsecurity/Drone-DAO/tree/main/Wave-Modules/wallet-purchase-UAV-parts and https://github.com/aspiringsecurity/Drone-DAO/tree/main/Wave-Modules/drone-parts-transactions (UAV parts)
+
+Bank credit dApp for Drone Insurance, Service & Repair using Waves: https://github.com/aspiringsecurity/Drone-DAO/tree/main/Wave-Modules/bankCredit
+
+Learning:
+
+Bootstrapping Rider Smart contracts: https://github.com/aspiringsecurity/Drone-DAO/tree/main/Wave-Modules/bootstrap
+
 
 
 # Canto, IBC and Cosmos Eco-system
