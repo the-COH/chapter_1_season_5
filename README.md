@@ -5,6 +5,8 @@ Website : (only on testnet (chainId: 7701) https://waveswap.pages.dev/
 Twitter : @WaveSwapFi
 Telegram (personnal) : @arthursdev
 
+![preview](https://user-images.githubusercontent.com/59390256/229240595-71681fa0-3114-4f13-90bb-225a10473200.png)
+
 ## Intro
 
 WaveSwap is a decentralized exchange based on Uniswap V3. It will bring concentrated liquidity to the canto blockchain. I came on canto few months ago and saw that the major DEXes were uniswap v2 based. I saw there an opportunity to build something useful and efficient for CANTO users. WaveSwap will be the first V3 DEX on CANTO, maximising returns for traders and liquidity provider but also minimising price slippage. However the main innovation that WaveSwap is bringing to CANTO is the concentrated liquidity.
