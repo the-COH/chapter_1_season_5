@@ -5,7 +5,9 @@ Website : (only on testnet (chainId: 7701) https://waveswap.pages.dev/
 Twitter : @WaveSwapFi
 Telegram (personnal) : @arthursdev
 
-![preview](https://user-images.githubusercontent.com/59390256/229240595-71681fa0-3114-4f13-90bb-225a10473200.png)
+
+![IMG_4852](https://user-images.githubusercontent.com/59390256/229564720-c4f0411b-20c1-41bb-a864-cad15a6e6f04.GIF)
+
 
 ## Intro
 
