@@ -6,6 +6,8 @@ Twitter : @WaveSwapFi
 Telegram (personnal) : @arthursdev
 
 
+![IMG_4855](https://user-images.githubusercontent.com/59390256/229566851-f8200064-8bcc-41a3-9511-af9b5a043dc5.GIF)
+
 ![IMG_4852](https://user-images.githubusercontent.com/59390256/229564720-c4f0411b-20c1-41bb-a864-cad15a6e6f04.GIF)
 
 
