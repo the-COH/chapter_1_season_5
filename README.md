@@ -7,7 +7,8 @@ Twitter : @WaveSwapFi
 
 Telegram (personnal) : @arthursdev
 
-Canto currently lacks from users and volume. WaveSwap will attract new users by permitting high volume transactions. With concentrated liquidity, WaveSwap will allow the canto ecosystem to have deep liquidity pools.
+#### Canto currently lacks from users and volume. WaveSwap will attract new users by permitting high volume transactions. With concentrated liquidity, WaveSwap will allow the canto ecosystem to have deep liquidity pools.
+
 
 
 ![IMG_4855](https://user-images.githubusercontent.com/59390256/229566851-f8200064-8bcc-41a3-9511-af9b5a043dc5.GIF)
