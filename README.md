@@ -2,7 +2,9 @@
 Season 6 of the Canto Online Hackathon 
 
 Website : (only on testnet (chainId: 7701) https://waveswap.pages.dev/
+
 Twitter : @WaveSwapFi
+
 Telegram (personnal) : @arthursdev
 
 Canto currently lacks from users and volume. WaveSwap will attract new users by permitting high volume transactions. With concentrated liquidity, WaveSwap will allow the canto ecosystem to have deep liquidity pools.
