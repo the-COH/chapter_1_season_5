@@ -21,7 +21,9 @@ Demos: https://drive.google.com/drive/u/6/folders/1-YWioQYGuWWbkKP290_fAHL80XdN0
 
 Website: https://sites.google.com/view/drone-dao/home?authuser=2
 
-Application in Transport Management: https://sites.google.com/view/solana-aspiringroadsafety/home?authuser=2&read_current=1
+Applications: Drones for Logistics, Maintenance and Services: https://sites.google.com/view/dronesforrealestate/home
+
+Drones for Integrated Water Management (Website for End Consumers, Civic bodies): https://sites.google.com/view/integratedwatermanagment/home
 
 
 # Beneficiaries/Applications of Drone DAOs
