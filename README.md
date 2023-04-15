@@ -17,7 +17,7 @@ Platform Features:
 •Drone Incident Reporting : Publish drone incident reports.
 
 
-Slides and Demos: https://drive.google.com/drive/u/6/folders/1-YWioQYGuWWbkKP290_fAHL80XdN0dk3
+Demos: https://drive.google.com/drive/u/6/folders/1-YWioQYGuWWbkKP290_fAHL80XdN0dk3
 
 Website: https://sites.google.com/view/drone-dao/home?authuser=2
 
