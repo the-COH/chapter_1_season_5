@@ -28,13 +28,11 @@ Drones for Integrated Water Management (Website for End Consumers, Civic bodies)
 
 # Beneficiaries/Applications of Drone DAOs
 
-1. Transport Management: An analytics and incident management platform for citizens, police officers and drivers to report and manage incidents, detect and prevent accidents on both mobile and web in a secure and simplified manner. With a mix of intelligent hardware, software on SAP Hana Database, Solana blockchain network with Drone DAOs, decentralized database, we provide intelligent feedback about drive quality and help analyze past incidents, as well as predict future incidents, enable road safety counseling. Further, we enable private payments for vehicle repair on Solana using Elusiv sdk and nft voting for the service providers using Drone Daos.
+1. Integrated Water Management: Safer and more efficient surveys; Accurate, geo-referenced point clouds for measurement, 3d visualization and export. Conduct Volume measurements in the point cloud, create contour lines and digitize models for break lines; Use our quality report to assess and control data quality.
 
-2. Integrated Water Management: Safer and more efficient surveys; Accurate, geo-referenced point clouds for measurement, 3d visualization and export. Conduct Volume measurements in the point cloud, create contour lines and digitize models for break lines; Use our quality report to assess and control data quality.
+2. Real Estate: Show property in 3D on the web; Navigate through your model, observing property and surroundings in detail from an aerial perspective. Create customized fly through videos to share with clients or advertise your business.
 
-3. Real Estate: Show property in 3D on the web; Navigate through your model, observing property and surroundings in detail from an aerial perspective. Create customized fly through videos to share with clients or advertise your business.
-
-4. Building Construction: With Geo-referenced outputs and data acquisition, easily monitor your sites over time using digital surface models and Orthomosaics. Measurements: Volume calculation in the 3D point cloud is intuitive, with adjustable base height and more for accurate earthwork measurements; Output are compatible with CAD software. Verify the as built site status against design models using current 2d and 3d data from our cloud services.
+3. Building Construction: With Geo-referenced outputs and data acquisition, easily monitor your sites over time using digital surface models and Orthomosaics. Measurements: Volume calculation in the 3D point cloud is intuitive, with adjustable base height and more for accurate earthwork measurements; Output are compatible with CAD software. Verify the as built site status against design models using current 2d and 3d data from our cloud services.
 
 
 # Solana Blockchain and Elusiv Eco-system
