@@ -41,7 +41,7 @@ Drones for Integrated Water Management (Website for End Consumers, Civic bodies)
 
 Multi currency web wallet is very helpful in cases where the road incident involves tourists or foreign diplomats. Reference used for development: https://github.com/solana-labs/solana-pay-scaffold
 
-b. Analytics tooling and Elusiv SDK: Analytics tooling for visualization, tabulation, collaboration and organization of data along with elusiv sdk for private payments: https://github.com/aspiringsecurity/Drone-DAO/tree/main/solana-canto-analytics-tooling
+b. Analytics tooling and Elusiv SDK: Analytics tooling for visualization, tabulation, collaboration and organization of data along with elusiv sdk for private payments: https://github.com/aspiringsecurity/Drone-DAO/tree/main/BTTC-analytics-tooling
 
 2. NFT creation and minting on Solana: We are also developing an NFT creation and minting system on Solana for NFC tags of UAVs. Please visit https://github.com/aspiringsecurity/Drone-DAO/tree/main/solana-nft-mint-module
 
