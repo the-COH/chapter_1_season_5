@@ -49,6 +49,8 @@ b. Analytics tooling and Elusiv SDK: Analytics tooling for visualization, tabula
 
 4. Video: We are developing on the Huddle01 application layer and creating a bridge with the Solana blockchain to enable video conferencing and streaming on-chain. We are utilizing IPFS and Filecoin for storage purposes. We also plan to use Aptos along with Livepeer for developing a video command and control center and make it available via a bridge network. Please visit https://github.com/aspiringsecurity/Drone-DAO/tree/main/Drone-Modules-Solana-IBC.
 
+5. Wormhole integration for multi-chain features and blockchain interoperability in Solana: Please visit bootstrapped project using Wormhole with Scaffold at https://github.com/aspiringsecurity/Drone-DAO/tree/main/wormhole-scaffolding/solana ; Usage of Wormhole Solana SDK: https://github.com/aspiringsecurity/Drone-DAO/tree/main/wormhole-solidity-sdk ; Wormhole Token bridge UI in Solana at https://github.com/aspiringsecurity/Drone-DAO/tree/main/wormhole-token-bridge-ui and Wormhole Cross Chain Borrow Lend at https://github.com/aspiringsecurity/Drone-DAO/tree/main/wormhole-cross-chain-borrow-lend .
+
 
 # Waves Blockchain
 
