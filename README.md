@@ -49,7 +49,32 @@ b. Analytics tooling and Elusiv SDK: Analytics tooling for visualization, tabula
 
 4. Video: We are developing on the Huddle01 application layer and creating a bridge with the Solana blockchain to enable video conferencing and streaming on-chain. We are utilizing IPFS and Filecoin for storage purposes. We also plan to use Aptos along with Livepeer for developing a video command and control center and make it available via a bridge network. Please visit https://github.com/aspiringsecurity/Drone-DAO/tree/main/Drone-Modules-Solana-IBC.
 
-5. Wormhole integration for multi-chain features and blockchain interoperability in Solana: Please visit bootstrapped project using Wormhole with Scaffold at https://github.com/aspiringsecurity/Drone-DAO/tree/main/wormhole-scaffolding/solana ; Usage of Wormhole Solana SDK: https://github.com/aspiringsecurity/Drone-DAO/tree/main/wormhole-solidity-sdk ; Wormhole Token bridge UI in Solana at https://github.com/aspiringsecurity/Drone-DAO/tree/main/wormhole-token-bridge-ui and Wormhole Cross Chain Borrow Lend at https://github.com/aspiringsecurity/Drone-DAO/tree/main/wormhole-cross-chain-borrow-lend .
+5. Wormhole integration for multi-chain features and blockchain interoperability in Solana:
+   
+  Please visit bootstrapped project using Wormhole with Scaffold at https://github.com/aspiringsecurity/Drone-DAO/tree/main/wormhole-scaffolding/solana ;
+
+  - Usage of Wormhole Solana SDK: https://github.com/aspiringsecurity/Drone-DAO/tree/main/wormhole-solidity-sdk ;
+  
+  - Wormhole Token bridge UI in Solana at https://github.com/aspiringsecurity/Drone-DAO/tree/main/wormhole-token-bridge-ui and
+  
+  - Wormhole Cross Chain Borrow Lend at https://github.com/aspiringsecurity/Drone-DAO/tree/main/wormhole-cross-chain-borrow-lend
+
+Wormhole cross chain interoperability between Solana and Cosmos
+
+1. Wormhole Solana and Canto bridge enables us to have a DAO infrastructure with minimal gas fees. That is very important both from the privacy and cost effectiveness front.
+
+2. Using Wormhole, Cosmos interoperability with Solana and Ethereum like blockchains. Also, ability to use decentralize NFT voting for incident investigative system.
+
+3. Ability to generate NFT and ease of identity management.
+
+4. We are generating an NFT for NFC tags for drones and UAVs and spare parts at the time of service and repair workflows.
+
+5. Analytics tooling for visualization, tabulation, collaboration and organization of data.
+
+5. Identity management, ability to extend the solution using IBC and reducing misinformation at the time of Incident analysis and reporting are the key reasons for experimenting with Canto.
+Overall, Canto enables investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, incident severity analysis based on the decentralize voting at the IBC chain.
+
+
 
 
 # Waves Blockchain
@@ -68,18 +93,5 @@ Bootstrapping Rider Smart contracts: https://github.com/aspiringsecurity/Drone-D
 
 
 
-# Canto, IBC and Cosmos Eco-system
 
-1. Canto enables us to have a DAO infrastructure with minimal gas fees. That is very important both from the privacy and cost effectiveness front.
-
-2. Cosmos interoperability with Ethereum like blockchains. Also, ability to use decentralize NFT voting for incident investigative system.
-
-3. Ability to generate NFT and ease of identity management.
-
-4. We are generating an NFT for NFC tags for drones and UAVs and spare parts at the time of service and repair workflows.
-
-5. Analytics tooling for visualization, tabulation, collaboration and organization of data.
-
-5. Identity management, ability to extend the solution using IBC and reducing misinformation at the time of Incident analysis and reporting are the key reasons for experimenting with Canto.
-Overall, Canto enables investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, incident severity analysis based on the decentralize voting at the IBC chain.
 
