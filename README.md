@@ -35,7 +35,7 @@ Drones for Integrated Water Management (Website for End Consumers, Civic bodies)
 3. Building Construction: With Geo-referenced outputs and data acquisition, easily monitor your sites over time using digital surface models and Orthomosaics. Measurements: Volume calculation in the 3D point cloud is intuitive, with adjustable base height and more for accurate earthwork measurements; Output are compatible with CAD software. Verify the as built site status against design models using current 2d and 3d data from our cloud services.
 
 
-# Solana Blockchain and Elusiv Eco-system
+# Solana Blockchain Eco-system
 
 1a. Solana for Transport Service and Payment Management: We are using Solana Multicurrency web wallet and information explorer with data analytics powered by SocialCalc for managing information and payments to emergency service providers, maintenance and repair servicemen and also insuarnce and cab aggregator providers for availing their services. SocialCalc with Solana explorer enables tabulation, data organization and management, is an easy-to-use analysis tool that summarises core data and features of a Token or NFT such as chains used, origin, issuer, energy consumption, and minting method.  We also enable private payments for vehicle repair on Solana using Elusiv sdk and nft voting for the service providers using daos. Please visit https://github.com/aspiringsecurity/Drone-DAO/tree/main/Drone-DAO-Solana and https://github.com/aspiringsecurity/Drone-DAO/tree/main/Drone-Modules-Solana-IBC
 
@@ -48,6 +48,9 @@ b. Analytics tooling and Elusiv SDK: Analytics tooling for visualization, tabula
 3. Audio: We are extending and adapting the Audius layer on the Solana ecosystem to enable audio based streaming of an incident event. We are using the lighthouse SDK for storage and Solana Login Module for identity authentication and authorization: https://github.com/aspiringsecurity/Drone-DAO/tree/main/Drone-Modules-Solana-IBC/solana-login-module
 
 4. Video: We are developing on the Huddle01 application layer and creating a bridge with the Solana blockchain to enable video conferencing and streaming on-chain. We are utilizing IPFS and Filecoin for storage purposes. We also plan to use Aptos along with Livepeer for developing a video command and control center and make it available via a bridge network. Please visit https://github.com/aspiringsecurity/Drone-DAO/tree/main/Drone-Modules-Solana-IBC.
+
+
+# Wormhole Solana Integration with Cosmos and Cross Chain Payments
 
 5. Wormhole integration for multi-chain features and blockchain interoperability in Solana:
    
@@ -73,6 +76,7 @@ Wormhole cross chain interoperability between Solana and Cosmos
 
 5. Identity management, ability to extend the solution using IBC and reducing misinformation at the time of Incident analysis and reporting are the key reasons for experimenting with Canto.
 Overall, Canto enables investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, incident severity analysis based on the decentralize voting at the IBC chain.
+
 
 
 
