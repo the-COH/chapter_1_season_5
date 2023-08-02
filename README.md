@@ -77,6 +77,10 @@ Wormhole cross chain interoperability between Solana and Cosmos
 5. Identity management, ability to extend the solution using IBC and reducing misinformation at the time of Incident analysis and reporting are the key reasons for experimenting with Canto.
 Overall, Canto enables investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, incident severity analysis based on the decentralize voting at the IBC chain.
 
+# dapp module for Durable Nonces using Phantom
+
+Please visit https://github.com/aspiringsecurity/Drone-DAO/tree/main/phantom-module-durable-nonces
+
 
 
 
