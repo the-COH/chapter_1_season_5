@@ -79,7 +79,7 @@ Overall, Canto enables investigative case management and incident reporting, ide
 
 # dapp module for Durable Nonces using Phantom
 
-Please visit https://github.com/aspiringsecurity/Drone-DAO/tree/main/phantom-module-durable-nonces
+Please visit https://github.com/aspiringsecurity/Drone-DAO/tree/main/phantom-module-durable-nonces and https://github.com/aspiringsecurity/Drone-DAO/tree/main/phantom-module-durable-nonces/solana-durable-nonces-phantom
 
 
 
