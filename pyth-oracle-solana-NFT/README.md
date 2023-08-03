@@ -1,8 +1,6 @@
-# Pythaplex
-Solana project: Pyth oracle + Metaplex NFT standard
+# Pyth dapp module to generate dynamic NFT updated by price prediction
 
-# Concept
-Build a system that generate dynamic NFT updated by price prediction.
+Dapp module for implementation using Pyth Oracle and Metaplex NFT standard
 
 # Localnet
 copy Pyth oracle account data to local validater
